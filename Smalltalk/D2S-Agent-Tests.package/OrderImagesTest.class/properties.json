@@ -1,0 +1,14 @@
+{
+	"category" : "D2S-Agent-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"orderImages" ],
+	"name" : "OrderImagesTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
