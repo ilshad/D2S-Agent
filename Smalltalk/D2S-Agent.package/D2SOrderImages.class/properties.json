@@ -4,10 +4,12 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 5/13/2015 21:22",
+	"commentStamp" : "ilshad 5/14/2015 09:54",
 	"instvars" : [
-		"serviceResponse",
-		"rootPath",
+		"orderId",
+		"urls",
+		"ids",
+		"rootDirectory",
 		"createDirectoryName" ],
 	"name" : "D2SOrderImages",
 	"pools" : [

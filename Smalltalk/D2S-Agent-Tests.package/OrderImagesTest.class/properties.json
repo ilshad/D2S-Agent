@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"orderImages" ],
+		"rootPath",
+		"downloadPathSingle",
+		"localPathSingle" ],
 	"name" : "OrderImagesTest",
 	"pools" : [
 		 ],
