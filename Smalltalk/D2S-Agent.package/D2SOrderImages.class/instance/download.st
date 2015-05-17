@@ -1,4 +1,4 @@
-as yet unclassified
+download
 download
 	"Download all images in order."
 	urls do: [

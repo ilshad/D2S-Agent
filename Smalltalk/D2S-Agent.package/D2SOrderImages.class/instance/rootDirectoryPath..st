@@ -1,3 +1,3 @@
 accessing
-rootDirectoryFromPath: aString
+rootDirectoryPath: aString
 	rootDirectory := (aString asFileReference)

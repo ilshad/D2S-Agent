@@ -2,9 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "ilshad 5/14/2015 10:02",
-		"testDownloadFrom" : "ilshad 5/14/2015 09:36",
-		"testDownloadFromTo" : "ilshad 5/14/2015 09:27",
-		"testDownloadOrder" : "ilshad 5/14/2015 11:38",
-		"testUnitId" : "ilshad 5/14/2015 11:36",
-		"testUrlFileName" : "ilshad 5/14/2015 09:10" } }
+		"setUp" : "ilshad 5/17/2015 23:10",
+		"testDownload" : "ilshad 5/18/2015 01:11",
+		"testUnitId" : "ilshad 5/18/2015 02:03" } }

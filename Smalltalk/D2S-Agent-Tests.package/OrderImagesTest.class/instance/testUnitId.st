@@ -1,8 +1,11 @@
 tests
 testUnitId
-	| result |
-	
-	result := (D2SOrderImages new) unitId: 'http://example.com/1d2c0bce10-Mate-20x30.jpeg'.
-
-	self assert: result equals: '1d2c0bce10'.
-	
+	| orderImages |
+	orderImages := D2SOrderImages new.
+	self
+		assert: (orderImages unitId: 'foo-Test-9x12-1.tiff')
+		equals: 'foo'.
+		
+	self
+		assert: (orderImages unitId: '8b7120f9-acec-44e2-9cfc-dbc17b013342-Test-9x12-1.tiff')
+		equals: '8b7120f9-acec-44e2-9cfc-dbc17b013342'.
