@@ -1,4 +1,4 @@
 accessing
 urls: anArray
-	"Set Images URLs"
+	"Set Images URLs array."
 	urls := anArray

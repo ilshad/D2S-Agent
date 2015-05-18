@@ -9,7 +9,7 @@
 		"rootPath",
 		"baseUrl",
 		"fileNames" ],
-	"name" : "OrderImagesTest",
+	"name" : "D2SOrderImagesTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",
