@@ -1,5 +1,6 @@
 private
 unitId: aString
+	"Parse unit id from filename."
 	| xs |
 	xs := (self fileName: aString) splitOn: '-'.
 	xs size > 5

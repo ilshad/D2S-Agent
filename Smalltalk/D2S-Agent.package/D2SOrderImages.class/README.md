@@ -6,10 +6,10 @@ All hardware-specific classes utilize me. I do not know how to name local direct
 
 API:
 
-#orderId: aNumber - set order id;
-#urls: anArray - set image urls;
-#rootDirectoryFromPath: aString - set full path to orders root directory;
-#createDirectoryName: aBlock - specify procedure to generate directory name 
-#download - download all order images;
-#ids - get unit ids.
+orderId: aNumber - set order id;
+urls: anArray - set image urls;
+rootDirectoryFromPath: aString - set full path to orders root directory;
+createDirectoryName: aBlock - specify procedure to generate directory name 
+download - download all order images;
+ids - get unit ids.
 
