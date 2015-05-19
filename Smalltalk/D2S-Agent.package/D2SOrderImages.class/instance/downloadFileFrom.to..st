@@ -1,6 +1,5 @@
 private
-downloadFrom: url to: path
-	"Download one file"
+downloadFileFrom: url to: path
 	FileStream
 		newFileNamed: path
 		do: [ :fileStream || entity |

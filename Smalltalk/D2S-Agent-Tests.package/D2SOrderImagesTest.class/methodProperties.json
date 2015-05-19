@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "ilshad 5/17/2015 23:10",
-		"testDownload" : "ilshad 5/18/2015 01:11",
-		"testUnitId" : "ilshad 5/18/2015 02:03" } }
+		"clean:from:" : "ilshad 5/19/2015 17:32",
+		"testDownload" : "ilshad 5/19/2015 19:34",
+		"testOrderDirectory" : "ilshad 5/19/2015 17:25",
+		"testUnitIdFromFileName" : "ilshad 5/19/2015 19:14" } }
