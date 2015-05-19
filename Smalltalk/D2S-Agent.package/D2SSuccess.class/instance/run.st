@@ -1,5 +1,5 @@
-success
-success
+running
+run
 	"Success request to API service."	
 	 self latestResponse:
 		(ZnClient new

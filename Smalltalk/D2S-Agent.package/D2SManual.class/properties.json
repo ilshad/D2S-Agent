@@ -4,12 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 5/19/2015 13:38",
+	"commentStamp" : "ilshad 5/19/2015 20:46",
 	"instvars" : [
 		"url",
 		"secret",
 		"serviceResponse",
-		"orderImages" ],
+		"orderImages",
+		"success" ],
 	"name" : "D2SManual",
 	"pools" : [
 		 ],

@@ -9,4 +9,4 @@ Usage:
 		secret: 'password';
 		orderId: 42;
 		ids: #('8b7120f9-acec-44e2-9cfc-dbc17b013341');
-		success.
+		run.

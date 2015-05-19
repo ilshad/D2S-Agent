@@ -1,6 +1,7 @@
 private
 downloadOrder: orderId
-	"Does Order-Images API protocol."
+	"Runs Order-Images."
 	orderImages
 		orderId: orderId;
-		urls: (serviceResponse at: orderId).
+		urls: (serviceResponse at: orderId);
+		downloadOrderImages.
