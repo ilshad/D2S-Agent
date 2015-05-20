@@ -1,6 +1,6 @@
 I implement Manual Device API Protocol.
 
-I need preconfigured D2SSuccess object.
+I need a preconfigured D2SSuccess object.
 
 Usage:
 

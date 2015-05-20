@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"singleton" : "ilshad 5/20/2015 18:53" },
+	"instance" : {
+		"accountId" : "ilshad 5/20/2015 20:55",
+		"accountId:" : "ilshad 5/20/2015 20:55",
+		"loadConfig" : "ilshad 5/20/2015 21:52",
+		"loadConfigUrl" : "ilshad 5/20/2015 20:52",
+		"loadConfigUrl:" : "ilshad 5/20/2015 20:52",
+		"secret" : "ilshad 5/20/2015 18:58",
+		"secret:" : "ilshad 5/20/2015 18:58",
+		"successBaseUrl" : "ilshad 5/20/2015 19:29",
+		"successBaseUrl:" : "ilshad 5/20/2015 19:30" } }

@@ -1,17 +1,17 @@
 {
 	"category" : "D2S-Agent",
 	"classinstvars" : [
-		 ],
+		"singleton" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 5/20/2015 12:36",
+	"commentStamp" : "ilshad 5/20/2015 19:07",
 	"instvars" : [
-		"url",
 		"secret",
-		"serviceResponse",
-		"orderImages",
-		"success" ],
-	"name" : "D2SManual",
+		"accountId",
+		"loadConfigUrl",
+		"devices",
+		"successBaseUrl" ],
+	"name" : "D2SConfig",
 	"pools" : [
 		 ],
 	"super" : "Object",

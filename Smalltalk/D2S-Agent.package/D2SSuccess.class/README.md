@@ -1,6 +1,6 @@
 I implement Success Protocol.
 
-I do the request to the service which marks given units as transmitted successfully, so they are don't need to be served anymore.
+I do request to the service which marks given units as transmitted successfully, so they are don't need to be served anymore.
 
 Usage:
 
