@@ -1,0 +1,16 @@
+{
+	"category" : "D2S-Agent",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 5/22/2015 00:13",
+	"instvars" : [
+		"rootDirectory",
+		"url",
+		"protocol" ],
+	"name" : "D2SDeviceConfig",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

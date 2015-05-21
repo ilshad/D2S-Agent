@@ -1,0 +1,15 @@
+{
+	"category" : "D2S-Agent-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 5/21/2015 14:43",
+	"instvars" : [
+		"labelModel",
+		"textModel" ],
+	"name" : "D2STextFieldModel",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }
