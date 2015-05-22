@@ -1,3 +1,3 @@
 accessing
 rootDirectory
-	^ rootDirectory isNil: [ rootDirectory := '' ]
+	^ rootDirectory ifNil: [ rootDirectory := '' ]

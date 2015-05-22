@@ -1,3 +1,3 @@
 accessing
 isEnabled
-	^ isEnabled isNil: [ isEnabled := false ]
+	^ isEnabled ifNil: [ isEnabled := false ]
