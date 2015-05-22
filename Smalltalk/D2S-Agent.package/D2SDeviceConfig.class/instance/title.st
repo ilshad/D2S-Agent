@@ -1,3 +1,3 @@
 api
 title
-	^ 'This is device title'
+	^ 'This is Device Config Title'

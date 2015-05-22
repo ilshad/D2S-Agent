@@ -15,5 +15,6 @@ Fields 'rootDirectory' and 'url' are not required and they are empty strings by 
 
 Shortcat for creation:
 
-	D2SDeviceConfig newWithProtocol: #manual
+	D2SDeviceConfig newWithProtocol: #manual.
+
 
