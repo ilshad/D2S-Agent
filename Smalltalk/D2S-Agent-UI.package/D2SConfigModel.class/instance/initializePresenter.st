@@ -10,4 +10,5 @@ initializePresenter
 	secretModel    whenTextIsAccepted: [ :s | config secret: s ].
 	configUrlModel whenTextIsAccepted: [ :s | config loadConfigUrl: s ].
 
-	self initializeDevicesModel.
+	self initializeDevices.
+	self initializeToolbar.

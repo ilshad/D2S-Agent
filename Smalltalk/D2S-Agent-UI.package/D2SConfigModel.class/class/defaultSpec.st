@@ -9,6 +9,7 @@ defaultSpec
 				add: #accountIdModel height: rowHeight;
 				add: #secretModel    height: rowHeight;
 				add: #configUrlModel height: rowHeight;
-				add: #devicesModel
+				add: #devicesModel;
+				add: #toolbarModel   height: rowHeight
 		];
 		yourself

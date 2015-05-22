@@ -10,7 +10,8 @@
 		"accountIdModel",
 		"secretModel",
 		"configUrlModel",
-		"devicesModel" ],
+		"devicesModel",
+		"toolbarModel" ],
 	"name" : "D2SConfigModel",
 	"pools" : [
 		 ],
