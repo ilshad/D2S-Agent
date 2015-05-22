@@ -1,3 +1,3 @@
 accessing
 url
-	^ url
+	^ url isNil: [ url := '' ]

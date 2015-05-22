@@ -4,11 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 5/22/2015 01:04",
+	"commentStamp" : "ilshad 5/22/2015 01:05",
 	"instvars" : [
-		"labelModel",
-		"textModel" ],
-	"name" : "D2STextFieldModel",
+		"accountIdModel",
+		"secretModel",
+		"configUrlModel",
+		"devicesModel" ],
+	"name" : "D2SConfigModel",
 	"pools" : [
 		 ],
 	"super" : "ComposableModel",
