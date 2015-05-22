@@ -1,3 +1,3 @@
-as yet unclassified
+loading
 loadConfig
 	'Loading config...' crLog.

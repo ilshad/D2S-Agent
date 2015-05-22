@@ -1,6 +1,3 @@
 specs
 example
-	self new
-		config: (D2SDeviceConfig newWithProtocol: #manual);
-		updateModelsFromConfig;
-		openWithSpec.
+	(self newWithConfig: (D2SDeviceConfig newWithProtocol: #manual)) openWithSpec

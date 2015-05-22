@@ -4,11 +4,12 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 5/22/2015 05:17",
+	"commentStamp" : "ilshad 5/22/2015 15:09",
 	"instvars" : [
 		"rootDirectory",
 		"url",
-		"protocol" ],
+		"protocol",
+		"isEnabled" ],
 	"name" : "D2SDeviceConfig",
 	"pools" : [
 		 ],

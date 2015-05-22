@@ -3,18 +3,12 @@ Generic config for device. The fields are:
 	- protocol
 	- rootDirectory
 	- url
+	- isEnabled
 
 Usage:
 
-	D2SDeviceConfig new
-		protocol: #manual;
+	config := D2SDeviceConfig newWithProtocol: #manual.
+
+	config
 		rootDirectory: '/tmp/d2s-images/manual';
 		url: 'http://example.com/api'.
-
-Fields 'rootDirectory' and 'url' are not required and they are empty strings by default.
-
-Shortcat for creation:
-
-	D2SDeviceConfig newWithProtocol: #manual.
-
-

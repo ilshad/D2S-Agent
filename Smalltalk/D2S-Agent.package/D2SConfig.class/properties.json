@@ -9,8 +9,8 @@
 		"secret",
 		"accountId",
 		"loadConfigUrl",
-		"devices",
-		"successBaseUrl" ],
+		"successBaseUrl",
+		"devices" ],
 	"name" : "D2SConfig",
 	"pools" : [
 		 ],
