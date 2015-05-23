@@ -1,18 +1,16 @@
 {
 	"class" : {
-		"defaultSpec" : "ilshad 5/22/2015 23:48",
-		"example" : "ilshad 5/22/2015 02:01" },
+		"defaultSpec" : "ilshad 5/23/2015 05:10",
+		"example" : "ilshad 5/23/2015 04:44" },
 	"instance" : {
-		"aboutText" : "ilshad 5/23/2015 01:10",
-		"accountIdModel" : "ilshad 5/22/2015 01:50",
-		"configUrlModel" : "ilshad 5/22/2015 01:50",
-		"deviceModelFromConfig:" : "ilshad 5/23/2015 00:23",
-		"devicesModel" : "ilshad 5/22/2015 19:21",
-		"initialExtent" : "ilshad 5/23/2015 01:54",
-		"initializeDevices" : "ilshad 5/23/2015 02:17",
-		"initializePresenter" : "ilshad 5/22/2015 21:46",
-		"initializeToolbar" : "ilshad 5/23/2015 02:24",
-		"initializeWidgets" : "ilshad 5/22/2015 21:40",
-		"secretModel" : "ilshad 5/22/2015 01:50",
-		"title" : "ilshad 5/22/2015 22:54",
-		"toolbarModel" : "ilshad 5/22/2015 21:42" } }
+		"aboutText" : "ilshad 5/23/2015 04:49",
+		"deviceModelFromConfig:" : "ilshad 5/23/2015 04:44",
+		"devicesModel" : "ilshad 5/23/2015 04:44",
+		"initialExtent" : "ilshad 5/23/2015 04:56",
+		"initializeDevices" : "ilshad 5/23/2015 04:44",
+		"initializePresenter" : "ilshad 5/23/2015 05:18",
+		"initializeToolbar" : "ilshad 5/23/2015 04:51",
+		"initializeWidgets" : "ilshad 5/23/2015 05:09",
+		"successBaseUrlModel" : "ilshad 5/23/2015 05:08",
+		"title" : "ilshad 5/23/2015 05:04",
+		"toolbarModel" : "ilshad 5/23/2015 04:44" } }

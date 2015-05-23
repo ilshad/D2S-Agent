@@ -6,10 +6,8 @@ defaultSpec
 	^ SpecLayout composed
 		newColumn: [ :column |
 			column
-				add: #accountIdModel height: rowHeight;
-				add: #secretModel    height: rowHeight;
-				add: #configUrlModel height: rowHeight;
+				add: #successBaseUrlModel height: rowHeight;
 				add: #devicesModel;
-				add: #toolbarModel   height: rowHeight
+				add: #toolbarModel height: rowHeight
 		];
 		yourself

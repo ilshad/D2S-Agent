@@ -1,1 +1,1 @@
-Root UI for D2S Agent preferences.
+D2S Agent Config UI for all devices.

@@ -1,3 +1,3 @@
 api
 title
-	^ 'D2S Agent Settings'
+	^ 'D2S Agent: Config'

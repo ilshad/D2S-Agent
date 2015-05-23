@@ -4,13 +4,14 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 5/23/2015 04:46",
+	"commentStamp" : "ilshad 5/23/2015 04:44",
 	"instvars" : [
 		"config",
-		"successBaseUrlModel",
-		"devicesModel",
+		"accountIdModel",
+		"secretModel",
+		"configUrlModel",
 		"toolbarModel" ],
-	"name" : "D2SConfigModel",
+	"name" : "D2SIdentityModel",
 	"pools" : [
 		 ],
 	"super" : "ComposableModel",

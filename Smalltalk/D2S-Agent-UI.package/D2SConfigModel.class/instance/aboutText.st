@@ -1,3 +1,3 @@
 api
 aboutText
-	^ 'These are settings for Digital 2 Solid Agent.'
+	^ 'These are all device-specific settings for Digital 2 Solid Agent.'
