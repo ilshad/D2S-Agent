@@ -7,6 +7,7 @@ defaultSpec
 		newColumn: [ :column |
 			column
 				add: #labelModel height: rowHeight;
+				add: #isEnabledModel height: rowHeight;
 				add: #rootDirectoryModel height: rowHeight;
 				add: #urlModel height: rowHeight
 		];

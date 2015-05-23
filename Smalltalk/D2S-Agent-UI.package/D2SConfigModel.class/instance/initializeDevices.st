@@ -13,16 +13,19 @@ initializeDevices
 
 	devices do: [ :i |
 		devicesModel
-			assign: (D2SDeviceConfigModel newWithConfig: i value)
+			assign: (self deviceModelFromConfig: i value)
 			to: i key ].
 
-	height := ComposableModel toolbarHeight * 3.
+	height := ComposableModel toolbarHeight * 4.
 
 	devicesModel layout: (SpecLayout composed
-		newColumn: [ :col |
-			devices do: [ :i |
-				col add: i key height: height]
-		];
+		newRow: [ :row |
+			row newColumn: [ :col |
+				devices do: [ :i |
+					col add: i key height: height
+				]
+			]
+		] height: devices size * height;				
 		yourself).
 
 

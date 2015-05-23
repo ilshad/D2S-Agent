@@ -1,3 +1,3 @@
-api
+accessing
 title
-	^ protocol asString capitalized
+	^ title ifNil: [ title := '' ]

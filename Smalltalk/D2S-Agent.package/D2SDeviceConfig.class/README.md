@@ -1,5 +1,7 @@
 Generic config for device. The fields are:
 
+	- id
+	- title
 	- protocol
 	- rootDirectory
 	- url
@@ -7,7 +9,7 @@ Generic config for device. The fields are:
 
 Usage:
 
-	config := D2SDeviceConfig newWithProtocol: #manual.
+	config := D2SDeviceConfig newWithId: 'z42' protocol: #manual.
 
 	config
 		rootDirectory: '/tmp/d2s-images/manual';

@@ -1,3 +1,3 @@
 specs
 example
-	(self newWithConfig: (D2SDeviceConfig newWithProtocol: #manual)) openWithSpec
+	(self newWithConfig: (D2SDeviceConfig newWithId: 'z42' protocol: #manual)) openWithSpec
