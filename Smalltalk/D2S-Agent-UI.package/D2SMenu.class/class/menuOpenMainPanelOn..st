@@ -1,8 +1,10 @@
 menu
 menuOpenMainPanelOn: aBuilder
 	<worldMenu>
-	(aBuilder item: #D2SMainPanel) 
+	(aBuilder item: #D2SMenu) 
 		label: 'Digital 2 Solid';
 		icon: (Smalltalk ui icons smallPrintIcon);
 		order: 10;
-		action: [self new openWithSpec]
+		action: [ 
+			| window |
+			window := self new openWithSpec. ]

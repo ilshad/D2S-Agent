@@ -4,12 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 5/23/2015 12:40",
+	"commentStamp" : "ilshad 5/23/2015 13:21",
 	"instvars" : [
 		"identityButton",
 		"configButton",
+		"helpButton",
 		"exitButton" ],
-	"name" : "D2SMainPanel",
+	"name" : "D2SMenu",
 	"pools" : [
 		 ],
 	"super" : "ComposableModel",

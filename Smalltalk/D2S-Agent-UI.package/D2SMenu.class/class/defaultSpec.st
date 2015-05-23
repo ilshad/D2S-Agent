@@ -8,6 +8,7 @@ defaultSpec
 			column
 				add: #identityButton height: rowHeight;
 				add: #configButton   height: rowHeight;
+				add: #helpButton     height: rowHeight;
 				add: #exitButton     height: rowHeight
 		];
 		yourself

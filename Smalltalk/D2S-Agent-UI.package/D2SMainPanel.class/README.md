@@ -1,1 +1,0 @@
-D2S Agent GUI: main panel.
