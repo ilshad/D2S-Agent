@@ -3,7 +3,7 @@ initializeWidgets
 
 	identityButton := self newButton
 		label: ' Identity';
-		icon: (Smalltalk ui icons userIcon);
+		icon: (Smalltalk ui icons homeIcon);
 		action: [ D2SIdentityModel new openWithSpec ];
 		yourself.
 

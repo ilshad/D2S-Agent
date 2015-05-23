@@ -8,7 +8,7 @@ initializeToolbar
 
 	toolbarModel updateButton
 		label: ' Update config';
-		icon: (Smalltalk ui icons smallDoItIcon);
+		icon: (Smalltalk ui icons smallUpdateIcon);
 		action: [ UIManager default alert: 'This function is not implemented yet.' title: 'Sorry.' ].
 
 	toolbarModel closeButton
