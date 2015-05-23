@@ -1,15 +1,17 @@
 initialization
 initializeToolbar
 	toolbarModel := DynamicComposableModel new
-		instantiateModels: #(#updateModel ButtonModel #closeModel ButtonModel);
+		instantiateModels: #(#updateButton ButtonModel #closeButton ButtonModel);
 		layout: (SpecLayout composed
-			newRow: [ :row | row add: #updateModel; add: #closeModel ]);
+			newRow: [ :row | row add: #updateButton; add: #closeButton ]);
 		yourself.
 
-	toolbarModel updateModel
-		label: 'Update config';
+	toolbarModel updateButton
+		label: ' Update config';
+		icon: (Smalltalk ui icons smallDoItIcon);
 		action: [ UIManager default alert: 'This function is not implemented yet.' title: 'Sorry.' ].
 
-	toolbarModel closeModel
-		label: 'Close';
+	toolbarModel closeButton
+		label: ' Close';
+		icon: (Smalltalk ui icons smallOkIcon);
 		action: [ self window close ]

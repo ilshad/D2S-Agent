@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"defaultSpec" : "ilshad 5/23/2015 13:08",
+		"example" : "ilshad 5/23/2015 12:39",
+		"menuOpenMainPanelOn:" : "ilshad 5/23/2015 13:00" },
+	"instance" : {
+		"aboutText" : "ilshad 5/23/2015 12:40",
+		"configButton" : "ilshad 5/23/2015 12:47",
+		"exitButton" : "ilshad 5/23/2015 13:04",
+		"identityButton" : "ilshad 5/23/2015 12:47",
+		"initialExtent" : "ilshad 5/23/2015 13:03",
+		"initializeWidgets" : "ilshad 5/23/2015 13:17",
+		"title" : "ilshad 5/23/2015 12:40" } }

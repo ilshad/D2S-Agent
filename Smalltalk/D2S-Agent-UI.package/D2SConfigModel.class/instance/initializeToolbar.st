@@ -1,11 +1,12 @@
 initialization
 initializeToolbar
 	toolbarModel := DynamicComposableModel new
-		instantiateModels: #(#closeModel ButtonModel);
+		instantiateModels: #(#closeButton ButtonModel);
 		layout: (SpecLayout composed
-			newRow: [ :row | row add: #closeModel ]);
+			newRow: [ :row | row add: #closeButton ]);
 		yourself.
 
-	toolbarModel closeModel
-		label: 'Close';
+	toolbarModel closeButton
+		label: ' Close';
+		icon: (Smalltalk ui icons smallOkIcon);
 		action: [ self window close ]

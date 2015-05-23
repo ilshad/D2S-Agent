@@ -1,0 +1,16 @@
+{
+	"category" : "D2S-Agent-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 5/23/2015 12:40",
+	"instvars" : [
+		"identityButton",
+		"configButton",
+		"exitButton" ],
+	"name" : "D2SMainPanel",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }
