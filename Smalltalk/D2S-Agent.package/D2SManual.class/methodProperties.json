@@ -3,12 +3,4 @@
 		 },
 	"instance" : {
 		"downloadOrder:" : "ilshad 5/19/2015 20:01",
-		"initialize" : "ilshad 5/19/2015 19:49",
-		"requestService" : "ilshad 5/19/2015 14:24",
-		"rootDirectory:" : "ilshad 5/19/2015 19:52",
-		"run" : "ilshad 5/19/2015 20:42",
-		"runSuccessForOrder:" : "ilshad 5/19/2015 20:41",
-		"secret:" : "ilshad 5/19/2015 02:30",
-		"serviceResponseFromJson:" : "ilshad 5/19/2015 13:37",
-		"success:" : "ilshad 5/19/2015 20:32",
-		"url:" : "ilshad 5/19/2015 02:31" } }
+		"run" : "ilshad 11/14/2015 19:43" } }

@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 5/20/2015 12:36",
+	"commentStamp" : "ilshad 11/14/2015 19:49",
 	"instvars" : [
-		 ],
-	"name" : "D2SManual",
+		"prefix" ],
+	"name" : "D2SFrontier",
 	"pools" : [
 		 ],
 	"super" : "D2SAbstractDevice",

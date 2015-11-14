@@ -1,8 +1,6 @@
 running
 run
 	self requestService.
-	serviceResponse keysDo: [
-		:orderId |
+	serviceResponse keysDo: [ :orderId |
 		self downloadOrder: orderId.
-		self runSuccessForOrder: orderId
-		]
+		self runSuccessForOrder: orderId	]

@@ -1,0 +1,18 @@
+{
+	"category" : "D2S-Agent",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 11/14/2015 19:55",
+	"instvars" : [
+		"url",
+		"secret",
+		"serviceResponse",
+		"orderImages",
+		"success" ],
+	"name" : "D2SAbstractDevice",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
