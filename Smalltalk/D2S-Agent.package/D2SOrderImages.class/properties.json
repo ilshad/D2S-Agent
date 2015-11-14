@@ -4,13 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 5/20/2015 18:55",
+	"commentStamp" : "ilshad 11/10/2015 05:51",
 	"instvars" : [
 		"orderId",
 		"urls",
 		"ids",
 		"rootDirectory",
-		"fnDirectoryBaseName" ],
+		"directoryBaseNameFromOrderId" ],
 	"name" : "D2SOrderImages",
 	"pools" : [
 		 ],

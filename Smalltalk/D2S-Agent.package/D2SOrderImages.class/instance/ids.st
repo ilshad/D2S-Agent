@@ -1,4 +1,4 @@
 accessing
 ids
-	"Return array: ids of downloaded units."
+	"Return array of ids of downloaded units."
 	^ ids

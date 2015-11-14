@@ -1,4 +1,4 @@
 accessing
 latestResponse: anObject
-	"Save response as String."
+	"Save response as a String."
 	latestResponse := anObject asString

@@ -9,8 +9,10 @@ Generic config for device. The fields are:
 
 Usage:
 
-	config := D2SDeviceConfig newWithId: 'z42' protocol: #manual.
+	config := D2SDeviceConfig new.
 
 	config
+		id: 'z42';
+		protocol: #manual;
 		rootDirectory: '/tmp/d2s-images/manual';
 		url: 'http://example.com/api'.
