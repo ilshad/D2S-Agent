@@ -4,15 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 11/14/2015 19:55",
+	"commentStamp" : "ilshad 11/17/2015 09:23",
 	"instvars" : [
-		"url",
-		"secret",
-		"serviceResponse",
+		"prefix",
 		"orderImages",
 		"success" ],
 	"name" : "D2SAbstractDevice",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "D2SAbstractClient",
 	"type" : "normal" }

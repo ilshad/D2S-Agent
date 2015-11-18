@@ -3,7 +3,8 @@ This abstract class contains the most common things to implement device-specific
 Basically, device classes need:
 
 	1. Preconfigured D2SSuccess.
-	2. Set up common properties such as url, secret, rootDirectory.
+	2. Set up common properties such as url, secret, rootDirectory and
+	   (optional) prefix.
 
 Abstract example:
 
@@ -15,5 +16,6 @@ Abstract example:
 		url: 'http://example.com/device-id';
 		secret: 'password';
 		rootDirectory: '/tmp/d2s-images';
+		prefix: 'd2s';
 		success: success;
 		run.

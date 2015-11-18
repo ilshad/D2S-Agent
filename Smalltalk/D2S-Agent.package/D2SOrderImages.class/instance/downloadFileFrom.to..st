@@ -1,10 +1,11 @@
 private
 downloadFileFrom: url to: path
 	FileStream
-		newFileNamed: path
-		do: [ :fileStream || entity |
+		forceNewFileNamed: path
+		do: [ :fileStream |
+				| entity |
 				fileStream binary.
-				('Downloading file from URL: ', url) crLog.
+				self log: url.
 				entity := ZnClient new
 					streaming: true;
 					get: url;

@@ -2,14 +2,17 @@
 	"class" : {
 		 },
 	"instance" : {
+		"directoryBaseNameFromOrderId" : "ilshad 11/17/2015 18:13",
 		"directoryBaseNameFromOrderId:" : "ilshad 11/10/2015 04:51",
-		"downloadFileFrom:to:" : "ilshad 11/9/2015 06:50",
-		"downloadOrderImages" : "ilshad 5/19/2015 19:29",
+		"downloadFileFrom:to:" : "ilshad 11/18/2015 03:07",
+		"downloadOrderImages" : "ilshad 11/18/2015 03:48",
 		"ids" : "ilshad 11/10/2015 04:51",
 		"initialize" : "ilshad 11/10/2015 04:49",
+		"log:" : "ilshad 11/18/2015 03:09",
 		"orderDirectory" : "ilshad 11/10/2015 04:49",
+		"orderId" : "ilshad 11/17/2015 18:17",
 		"orderId:" : "ilshad 5/19/2015 16:31",
 		"parseFileNameFromURL:" : "ilshad 5/19/2015 16:24",
-		"rootDirectory:" : "ilshad 5/19/2015 19:26",
+		"rootDirectory:" : "ilshad 11/18/2015 02:46",
 		"unitIdFromFileName:" : "ilshad 5/19/2015 17:22",
 		"urls:" : "ilshad 5/19/2015 19:33" } }

@@ -3,11 +3,8 @@
 		 },
 	"instance" : {
 		"initialize" : "ilshad 11/14/2015 19:35",
-		"requestService" : "ilshad 11/14/2015 19:35",
+		"orderImages" : "ilshad 11/17/2015 18:11",
+		"prefix:" : "ilshad 11/17/2015 09:01",
 		"rootDirectory:" : "ilshad 11/14/2015 19:35",
-		"run" : "ilshad 11/14/2015 19:40",
 		"runSuccessForOrder:" : "ilshad 11/14/2015 19:35",
-		"secret:" : "ilshad 11/14/2015 19:35",
-		"serviceResponseFromJson:" : "ilshad 11/14/2015 19:35",
-		"success:" : "ilshad 11/14/2015 19:35",
-		"url:" : "ilshad 11/14/2015 19:35" } }
+		"success:" : "ilshad 11/14/2015 19:35" } }
