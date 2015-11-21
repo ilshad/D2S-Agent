@@ -3,5 +3,5 @@ example
 	self new
 		ghost: 'Empty yet';
 		label: 'My directory';
-		whenTextIsAccepted: [ :aString | aString crLog ];
+		whenValueChanged: [ :aString | aString crLog ];
 		openWithSpec.
