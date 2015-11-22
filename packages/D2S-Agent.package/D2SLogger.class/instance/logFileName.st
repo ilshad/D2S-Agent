@@ -1,3 +1,3 @@
-as yet unclassified
+constants
 logFileName
 	^ 'd2s.log'

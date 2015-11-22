@@ -1,4 +1,4 @@
-as yet unclassified
+private
 logMessagePrefix
 	| now |
 	now := DateAndTime now rounded.

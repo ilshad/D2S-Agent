@@ -1,3 +1,3 @@
-as yet unclassified
+private
 logFile
 	^ FileLocator imageDirectory / self logFileName

@@ -1,4 +1,4 @@
-as yet unclassified
+streaming
 << aString
 	"Put string into the log"
 	| s |
