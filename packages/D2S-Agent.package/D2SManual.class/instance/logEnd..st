@@ -1,6 +1,5 @@
 logging
 logEnd: orderId
-	Transcript
-		cr;
-		show: ('-*-DONE: manual/', orderId, '-*-');
-		cr.
+	D2SLogger << ('DONE: manual/', orderId)
+
+

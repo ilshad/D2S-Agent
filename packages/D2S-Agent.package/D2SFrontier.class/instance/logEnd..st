@@ -1,6 +1,3 @@
 logging
 logEnd: orderId
-	Transcript
-		cr;
-		show: ('-*-DONE: frontier/', orderId, '-*-');
-		cr.
+	D2SLogger << ('DONE: frontier/', orderId)
