@@ -1,0 +1,17 @@
+{
+	"category" : "D2S-Agent-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 5/23/2015 02:30",
+	"instvars" : [
+		"labelModel",
+		"textModel",
+		"buttonModel",
+		"onAction" ],
+	"name" : "D2SDirectoryFieldModel",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "D2S-Agent-Settings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 5/21/2015 23:57",
+	"instvars" : [
+		 ],
+	"name" : "D2SSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

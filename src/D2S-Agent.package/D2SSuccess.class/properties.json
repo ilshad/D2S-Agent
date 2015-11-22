@@ -1,0 +1,18 @@
+{
+	"category" : "D2S-Agent-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 5/20/2015 12:32",
+	"instvars" : [
+		"orderId",
+		"ids",
+		"baseUrl",
+		"secret",
+		"latestResponse" ],
+	"name" : "D2SSuccess",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

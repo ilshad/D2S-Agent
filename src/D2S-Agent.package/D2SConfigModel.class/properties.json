@@ -1,0 +1,17 @@
+{
+	"category" : "D2S-Agent-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 5/23/2015 04:46",
+	"instvars" : [
+		"config",
+		"successBaseUrlModel",
+		"devicesModel",
+		"toolbarModel" ],
+	"name" : "D2SConfigModel",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

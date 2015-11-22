@@ -1,0 +1,14 @@
+{
+	"category" : "D2S-Agent-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ManifestDSAgentUI",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }

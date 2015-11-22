@@ -1,0 +1,16 @@
+{
+	"category" : "D2S-Agent-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 11/18/2015 05:40",
+	"instvars" : [
+		"url",
+		"secret",
+		"serviceResponse" ],
+	"name" : "D2SAbstractClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

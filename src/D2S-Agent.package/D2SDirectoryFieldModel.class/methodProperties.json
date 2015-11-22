@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"defaultSpec" : "ilshad 5/23/2015 04:09",
+		"example" : "ilshad 11/22/2015 02:35" },
+	"instance" : {
+		"buttonModel" : "ilshad 5/23/2015 02:33",
+		"ghost:" : "ilshad 5/23/2015 02:28",
+		"initializePresenter" : "ilshad 5/23/2015 03:55",
+		"initializeWidgets" : "ilshad 5/23/2015 03:43",
+		"label:" : "ilshad 5/23/2015 02:28",
+		"labelModel" : "ilshad 5/23/2015 02:28",
+		"text" : "ilshad 5/23/2015 02:28",
+		"text:" : "ilshad 5/23/2015 02:28",
+		"textModel" : "ilshad 5/23/2015 02:28",
+		"whenValueChanged:" : "ilshad 5/23/2015 03:48" } }

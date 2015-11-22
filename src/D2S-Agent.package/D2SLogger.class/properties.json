@@ -1,0 +1,15 @@
+{
+	"category" : "D2S-Agent-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 11/22/2015 06:14",
+	"instvars" : [
+		"stream",
+		"contents" ],
+	"name" : "D2SLogger",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

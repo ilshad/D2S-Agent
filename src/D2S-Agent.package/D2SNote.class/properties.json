@@ -1,0 +1,14 @@
+{
+	"category" : "D2S-Agent-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 11/18/2015 05:56",
+	"instvars" : [
+		"directory" ],
+	"name" : "D2SNote",
+	"pools" : [
+		 ],
+	"super" : "D2SAbstractClient",
+	"type" : "normal" }

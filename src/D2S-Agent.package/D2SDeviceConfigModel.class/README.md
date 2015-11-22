@@ -1,0 +1,1 @@
+This UI represents particular device config.

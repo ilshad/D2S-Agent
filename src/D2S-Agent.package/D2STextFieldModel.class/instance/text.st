@@ -1,0 +1,3 @@
+api
+text
+	^ textModel text

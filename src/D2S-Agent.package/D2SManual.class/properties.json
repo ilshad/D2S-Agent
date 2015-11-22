@@ -1,0 +1,14 @@
+{
+	"category" : "D2S-Agent-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 11/17/2015 09:23",
+	"instvars" : [
+		 ],
+	"name" : "D2SManual",
+	"pools" : [
+		 ],
+	"super" : "D2SAbstractDevice",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "D2S-Agent-Core",
+	"classinstvars" : [
+		"singleton" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 5/20/2015 19:07",
+	"instvars" : [
+		"secret",
+		"accountId",
+		"loadConfigUrl",
+		"successBaseUrl",
+		"devices" ],
+	"name" : "D2SConfig",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
