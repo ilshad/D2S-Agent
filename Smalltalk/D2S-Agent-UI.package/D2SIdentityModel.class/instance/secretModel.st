@@ -1,3 +1,0 @@
-accessing
-secretModel
-	^ secretModel
