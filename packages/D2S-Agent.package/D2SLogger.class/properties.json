@@ -1,0 +1,14 @@
+{
+	"category" : "D2S-Agent-Core",
+	"classinstvars" : [
+		"singleton" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 11/22/2015 21:38",
+	"instvars" : [
+		 ],
+	"name" : "D2SLogger",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
