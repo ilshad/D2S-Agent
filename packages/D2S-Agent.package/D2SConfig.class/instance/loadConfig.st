@@ -1,3 +1,3 @@
 loading
 loadConfig
-	'Loading config...' crLog.
+	D2SLogger << 'Loading config...'

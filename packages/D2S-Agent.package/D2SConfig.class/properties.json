@@ -10,7 +10,8 @@
 		"accountId",
 		"loadConfigUrl",
 		"successBaseUrl",
-		"devices" ],
+		"devices",
+		"timeout" ],
 	"name" : "D2SConfig",
 	"pools" : [
 		 ],

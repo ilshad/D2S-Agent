@@ -6,6 +6,7 @@ defaultSpec
 	^ SpecLayout composed
 		newColumn: [ :column |
 			column
+				add: #timeoutModel height: rowHeight;
 				add: #successBaseUrlModel height: rowHeight;
 				add: #devicesModel;
 				add: #toolbarModel height: rowHeight
