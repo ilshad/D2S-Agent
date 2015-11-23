@@ -8,14 +8,11 @@
 	"instvars" : [
 		"apiBaseUrl",
 		"clientId",
-		"apiClientUrl",
 		"secret",
-		"success",
 		"testDirectory",
 		"manualPrinterId",
 		"frontierPrinterId",
-		"notesBaseUrl",
-		"notesClientUrl" ],
+		"notesBaseUrl" ],
 	"name" : "D2SOnlineTests",
 	"pools" : [
 		 ],

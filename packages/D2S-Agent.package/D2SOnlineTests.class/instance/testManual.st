@@ -2,10 +2,10 @@ tests
 testManual
 	| device |
 	device := D2SManual new
-		url:            (apiClientUrl, '/manual/', manualPrinterId);
+		id:             manualPrinterId;
+		baseUrl:        apiBaseUrl;
 		secret:         secret;
 		prefix:         'd2s.online';
-		rootDirectory:  testDirectory, '/d2s-online-tests-manual';
-		success:        success.
+		rootDirectory:  testDirectory, '/d2s-online-tests-manual'.
 	
 	[ device run ] fork.

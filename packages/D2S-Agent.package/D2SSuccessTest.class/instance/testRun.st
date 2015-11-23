@@ -10,4 +10,4 @@ testRun
 		ids: ids1;
 		run.
 
-	self assert: (s latestResponse) equals: 'Order not found'
+	self assert: (s latestResponse) equals: 'Resource not found'

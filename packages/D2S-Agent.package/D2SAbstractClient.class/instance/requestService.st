@@ -1,4 +1,6 @@
 private
 requestService
 	"Request API service and save response."
-	self serviceResponseFromJson: (ZnClient new get: (url, '?secret=', secret))
+	| response |
+	response := ZnClient new get: (self url, '?secret=', secret).
+	serviceResponse := NeoJSONReader fromString: response.

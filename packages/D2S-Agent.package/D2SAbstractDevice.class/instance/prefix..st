@@ -1,4 +1,4 @@
-config
+configuration
 prefix: aString
 	"Define optional prefix for order directoies.
 	If it is set, order directory will be named as '[prefix]-[orderId]'."

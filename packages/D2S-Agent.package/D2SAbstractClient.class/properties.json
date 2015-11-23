@@ -4,9 +4,8 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 11/18/2015 05:40",
+	"commentStamp" : "ilshad 11/23/2015 08:54",
 	"instvars" : [
-		"url",
 		"secret",
 		"serviceResponse" ],
 	"name" : "D2SAbstractClient",

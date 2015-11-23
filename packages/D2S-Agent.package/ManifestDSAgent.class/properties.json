@@ -1,0 +1,14 @@
+{
+	"category" : "D2S-Agent",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ManifestDSAgent",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }

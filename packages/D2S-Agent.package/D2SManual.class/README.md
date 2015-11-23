@@ -5,8 +5,8 @@ I need a preconfigured D2SSuccess object.
 Usage:
 
 	D2SManual new
-		url: 'http://example.com/device-id';
+		id: 'device-id';
+		baseUrl: 'http://example.com/';
 		secret: 'password';
 		rootDirectory: '/tmp/d2s-images';
-		success: success;
 		run.

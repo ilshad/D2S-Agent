@@ -2,6 +2,7 @@ running
 run
 	self requestService.
 	serviceResponse keysDo: [ :orderId |
-		self downloadOrder:      orderId.
+		D2SLogger << ('START: ', id, '/', orderId).
+		self downloadOrder: orderId.
 		self runSuccessForOrder: orderId.
-		self logEnd: orderId. ]
+		D2SLogger << ('DONE: ', id, '/', orderId) ]

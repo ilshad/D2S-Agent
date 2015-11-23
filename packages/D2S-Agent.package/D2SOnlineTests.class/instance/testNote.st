@@ -2,7 +2,7 @@ tests
 testNote
 	| device |
 	device := D2SNote new
-		url:         notesClientUrl;
+		url:         notesBaseUrl, '/account/', clientId, '/notes';
 		secret:      secret;
 		directory:   testDirectory, 'd2s-online-tests-notes'.
 

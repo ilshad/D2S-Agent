@@ -1,10 +1,11 @@
 running
 run
 	"Success request to API service."
-	D2SLogger << ('SUCCESS: ', self orderUrl, self idsAsJson).
+	| contents |
+	contents := self requestBody.
+	D2SLogger << ('SUCCESS: ', contents).
 	latestResponse := (ZnClient new
-								url: self orderUrl;
-								headerAt: 'X-D2S-Secret' put: secret;
-								contents: self idsAsJson;
+								url: self url;
+								contents: contents;
 								post) asString.
 
