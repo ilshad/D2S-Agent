@@ -5,4 +5,4 @@ run
 		D2SLogger << (' Start order: ', orderId, ' (device: ', id, ')').
 		self downloadOrder: orderId.
 		self runSuccessForOrder: orderId.
-		D2SLogger << ('Done order: ', orderId, ' (device: ', id, ')') ]
+		D2SLogger << ('Order downloaded: ', orderId, ' (device: ', id, ')') ]

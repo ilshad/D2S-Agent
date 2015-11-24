@@ -7,5 +7,5 @@ run
 								url: self url;
 								contents: contents;
 								post) asString.
-	D2SLogger << ('Sent success for order: ', orderId, ' (Units: ', ids asCommaString, ')').
+	D2SLogger << ('Sent confirmation success for order: ', orderId, ' (units: ', ids asCommaString, ')').
 

@@ -8,5 +8,5 @@ Usage:
 		id: 'device-id';
 		baseUrl: 'http://example.com/';
 		secret: 'password';
-		rootDirectory: '/tmp/d2s-images';
+		rootDirectory: '/tmp/d2s-manual';
 		run.

@@ -2,10 +2,10 @@ tests
 testFrontier
 	| device |
 	device := D2SFrontier new
-		url:            apiBaseUrl;
+		id:             frontierPrinterId;
+		baseUrl:        apiBaseUrl;
 		secret:         secret;
 		prefix:         'd2s.online';
-		rootDirectory:  testDirectory, '/d2s-online-tests-frontier';
-		success:        success.
+		rootDirectory:  testDirectory, '/d2s-online-tests-frontier'.
 	
 	[ device run ] fork.
