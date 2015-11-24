@@ -9,7 +9,6 @@
 		"config",
 		"labelModel",
 		"rootDirectoryModel",
-		"urlModel",
 		"isEnabledModel" ],
 	"name" : "D2SDeviceConfigModel",
 	"pools" : [

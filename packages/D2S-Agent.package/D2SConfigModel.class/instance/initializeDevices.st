@@ -16,7 +16,7 @@ initializeDevices
 			assign: (self deviceModelFromConfig: i value)
 			to: i key ].
 
-	height := ComposableModel toolbarHeight * 4.
+	height := ComposableModel toolbarHeight * 3.
 
 	devicesModel layout: (SpecLayout composed
 		newRow: [ :row |

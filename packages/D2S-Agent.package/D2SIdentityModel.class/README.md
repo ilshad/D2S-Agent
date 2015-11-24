@@ -1,1 +1,0 @@
-UI for common D2S Agent settings.

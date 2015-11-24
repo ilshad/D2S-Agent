@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "ilshad 5/23/2015 13:21",
 	"instvars" : [
-		"identityButton",
+		"authButton",
 		"configButton",
 		"helpButton",
 		"exitButton" ],

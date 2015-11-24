@@ -1,17 +1,16 @@
 {
 	"class" : {
-		"defaultSpec" : "ilshad 11/23/2015 00:16",
+		"defaultSpec" : "ilshad 11/25/2015 01:44",
 		"example" : "ilshad 5/23/2015 04:44" },
 	"instance" : {
 		"aboutText" : "ilshad 5/23/2015 04:49",
 		"deviceModelFromConfig:" : "ilshad 5/23/2015 04:44",
 		"devicesModel" : "ilshad 5/23/2015 04:44",
 		"initialExtent" : "ilshad 5/23/2015 04:56",
-		"initializeDevices" : "ilshad 5/23/2015 04:44",
-		"initializePresenter" : "ilshad 11/23/2015 00:14",
+		"initializeDevices" : "ilshad 11/25/2015 01:48",
+		"initializePresenter" : "ilshad 11/25/2015 01:43",
 		"initializeToolbar" : "ilshad 5/23/2015 13:16",
-		"initializeWidgets" : "ilshad 11/23/2015 00:12",
-		"successBaseUrlModel" : "ilshad 5/23/2015 05:08",
+		"initializeWidgets" : "ilshad 11/25/2015 01:43",
 		"timeoutModel" : "ilshad 11/23/2015 00:05",
 		"title" : "ilshad 5/23/2015 05:04",
 		"toolbarModel" : "ilshad 5/23/2015 04:44" } }

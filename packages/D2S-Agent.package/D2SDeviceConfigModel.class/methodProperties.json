@@ -1,16 +1,15 @@
 {
 	"class" : {
-		"defaultSpec" : "ilshad 5/23/2015 02:17",
+		"defaultSpec" : "ilshad 11/25/2015 01:42",
 		"example" : "ilshad 11/22/2015 02:30",
 		"newWithConfig:" : "ilshad 5/22/2015 22:26" },
 	"instance" : {
 		"config" : "ilshad 5/22/2015 04:45",
 		"config:" : "ilshad 5/22/2015 22:26",
-		"initializePresenter" : "ilshad 5/23/2015 03:50",
-		"initializeWidgets" : "ilshad 5/23/2015 03:44",
+		"initializePresenter" : "ilshad 11/25/2015 01:40",
+		"initializeWidgets" : "ilshad 11/25/2015 01:40",
 		"isEnabledModel" : "ilshad 5/23/2015 02:03",
 		"label" : "ilshad 5/23/2015 00:59",
 		"labelModel" : "ilshad 5/22/2015 04:23",
 		"rootDirectoryModel" : "ilshad 5/22/2015 04:23",
-		"updateModelsFromConfig" : "ilshad 5/23/2015 02:08",
-		"urlModel" : "ilshad 5/22/2015 04:24" } }
+		"updateModelsFromConfig" : "ilshad 11/25/2015 01:41" } }

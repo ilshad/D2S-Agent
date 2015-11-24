@@ -4,14 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 5/23/2015 04:44",
+	"commentStamp" : "ilshad 11/25/2015 00:10",
 	"instvars" : [
 		"config",
-		"accountIdModel",
 		"secretModel",
-		"configUrlModel",
+		"baseUrlModel",
 		"toolbarModel" ],
-	"name" : "D2SIdentityModel",
+	"name" : "D2SAuthModel",
 	"pools" : [
 		 ],
 	"super" : "ComposableModel",

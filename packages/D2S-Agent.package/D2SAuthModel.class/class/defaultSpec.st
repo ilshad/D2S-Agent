@@ -6,8 +6,8 @@ defaultSpec
 	^ SpecLayout composed
 		newColumn: [ :column |
 			column
-				add: #labelModel height: rowHeight;
-				add: #isEnabledModel height: rowHeight;
-				add: #rootDirectoryModel height: rowHeight
+				add: #secretModel  height: rowHeight;
+				add: #baseUrlModel height: rowHeight;
+				add: #toolbarModel height: rowHeight
 		];
 		yourself

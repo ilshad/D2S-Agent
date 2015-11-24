@@ -6,7 +6,7 @@ testRun
 	s := D2SSuccess new
 		baseUrl: 'http://localhost:8080/d2s-agent-api-dev/account/dev/orders';
 		secret: 'Q1BX-GQwF-ul';
-		orderId: 999999999999;
+		orderId: 777;
 		ids: ids1;
 		run.
 

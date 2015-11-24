@@ -7,15 +7,12 @@ settingsOn: aBuilder
 		label: 'D2S';
 		description: 'Digital 2 Solid Agent Settings';
 		with: [
-			(aBuilder group: #d2sBase)
-				label: 'Base Parameters';
-				with: [
-					(aBuilder setting: #secret)
-						label: 'API Key';
-						order: 1.
-					(aBuilder setting: #baseUrl)
-						label: 'Service URL';
-						order: 2.
-					(aBuilder launcher: #loadConfig)
-						label: 'Load config';
-						script: #loadConfig ] ]
+			(aBuilder setting: #secret)
+				label: 'API Key';
+				order: 1.
+			(aBuilder setting: #baseUrl)
+				label: 'Service URL';
+				order: 2.
+			(aBuilder launcher: #authenticate)
+				label: 'Authenticate';
+				script: #authenticate ]
