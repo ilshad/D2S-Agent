@@ -6,9 +6,8 @@
 		 ],
 	"commentStamp" : "ilshad 5/20/2015 19:07",
 	"instvars" : [
-		"loadConfigUrl",
 		"secret",
-		"apiBaseUrl",
+		"baseUrl",
 		"accountId",
 		"devices",
 		"timeout" ],
