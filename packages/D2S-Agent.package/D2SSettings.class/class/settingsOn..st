@@ -10,15 +10,12 @@ settingsOn: aBuilder
 			(aBuilder group: #d2sBase)
 				label: 'Base Parameters';
 				with: [
-					(aBuilder setting: #accountId)
-						label: 'Account ID';
-						order: 1.
 					(aBuilder setting: #secret)
 						label: 'API Secret Key';
-						order: 2.
+						order: 1.
 					(aBuilder setting: #loadConfigUrl)
 						label: 'Config URL';
-						order: 3.
+						order: 2.
 					(aBuilder launcher: #loadConfig)
 						label: 'Load config';
 						script: #loadConfig ] ]

@@ -1,10 +1,12 @@
-Generic config for device. The fields are:
+Generic config for device. The API-related fields are:
 
 	- id
+	- rootDirectory
+
+The additiona fields (used for agent's work) are:
+
 	- title
 	- protocol
-	- rootDirectory
-	- url
 	- isEnabled
 
 Usage:
@@ -13,6 +15,5 @@ Usage:
 
 	config
 		id: 'z42';
-		protocol: #manual;
 		rootDirectory: '/tmp/d2s-images/manual';
-		url: 'http://example.com/api'.
+		protocol: #manual.
