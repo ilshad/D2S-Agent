@@ -1,4 +1,4 @@
 accessing
 ids: anArray
-	"Define ids of downloaded units."
+	"Define ids by downloaded units."
 	ids := anArray
