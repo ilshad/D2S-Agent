@@ -1,3 +1,3 @@
-private
+scheduling
 action
-	D2SLogger << (' FROM LOOP:', (ZnMessageBenchmark new randomAsciiString: 10)).
+	D2SLogger << 'Hi there! I am from D2SScheduler>>#action'

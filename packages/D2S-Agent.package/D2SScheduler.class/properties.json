@@ -1,16 +1,14 @@
 {
 	"category" : "D2S-Agent-Core",
 	"classinstvars" : [
-		"singleton" ],
+		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 11/25/2015 03:43",
+	"commentStamp" : "ilshad 11/25/2015 03:54",
 	"instvars" : [
-		"countdown",
-		"isRunning",
-		"isWaiting" ],
+		 ],
 	"name" : "D2SScheduler",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "D2SAbstractScheduler",
 	"type" : "normal" }
