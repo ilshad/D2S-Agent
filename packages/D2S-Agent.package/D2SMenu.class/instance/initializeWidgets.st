@@ -22,6 +22,6 @@ initializeWidgets
 	exitButton := self newButton
 		label: ' Exit';
 		icon: (Smalltalk ui icons smallQuitIcon);
-		action: [ SmalltalkImage current exitSuccess ]
+		action: [ SmalltalkImage current snapshot: true andQuit: true ]
 
 

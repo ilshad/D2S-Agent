@@ -4,14 +4,12 @@
 		"singleton" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 11/25/2015 03:23",
+	"commentStamp" : "ilshad 11/25/2015 03:30",
 	"instvars" : [
-		"secret",
-		"baseUrl",
-		"accountId",
-		"devices",
-		"timeout" ],
-	"name" : "D2SConfig",
+		"countdown",
+		"isRunning",
+		"isWaiting" ],
+	"name" : "D2SScheduler",
 	"pools" : [
 		 ],
 	"super" : "Object",
