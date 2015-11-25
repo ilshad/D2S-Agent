@@ -1,4 +1,4 @@
-scheduling
+private
 wait
 	"Stop caller thread for N seconds, where N is D2SConfig>>#timeout.
 	Meanwhile it can be interrupted (obviously from other thread) by

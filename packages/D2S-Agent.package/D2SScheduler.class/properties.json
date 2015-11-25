@@ -4,7 +4,7 @@
 		"singleton" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 11/25/2015 03:30",
+	"commentStamp" : "ilshad 11/25/2015 03:43",
 	"instvars" : [
 		"countdown",
 		"isRunning",
