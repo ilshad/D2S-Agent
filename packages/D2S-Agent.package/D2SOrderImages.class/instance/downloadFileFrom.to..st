@@ -1,6 +1,6 @@
 private
 downloadFileFrom: url to: path
-	D2SLogger << ('Start download from: ', url).
+	D2SLogger << ('Downloading: ', (self parseFileNameFromURL: url), ' ...').
 	FileStream
 		forceNewFileNamed: path
 		do: [ :fileStream |
@@ -11,4 +11,4 @@ downloadFileFrom: url to: path
 					get: url;
 					entity.
 				entity writeOn: fileStream ].
-	D2SLogger << ('Saved to: ', path fullName).
+	D2SLogger << '...done.'.

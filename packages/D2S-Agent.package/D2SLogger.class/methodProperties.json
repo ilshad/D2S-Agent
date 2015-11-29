@@ -3,8 +3,8 @@
 		"<<" : "ilshad 11/22/2015 23:08",
 		"singleton" : "ilshad 11/22/2015 23:09" },
 	"instance" : {
-		"<<" : "ilshad 11/24/2015 06:11",
-		"appendToLogFile:" : "ilshad 11/22/2015 22:38",
+		"<<" : "ilshad 11/29/2015 20:24",
 		"logFile" : "ilshad 11/22/2015 22:41",
 		"logFileName" : "ilshad 11/22/2015 22:42",
-		"logMessagePrefix" : "ilshad 11/24/2015 06:44" } }
+		"logMessagePrefix" : "ilshad 11/24/2015 06:44",
+		"writeFile:isCr:" : "ilshad 11/29/2015 19:03" } }
