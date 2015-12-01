@@ -6,9 +6,10 @@ defaultSpec
 	^ SpecLayout composed
 		newColumn: [ :column |
 			column
-				add: #authButton     height: rowHeight;
-				add: #configButton   height: rowHeight;
-				add: #helpButton     height: rowHeight;
-				add: #exitButton     height: rowHeight
+				add: #authButton             height: rowHeight;
+				add: #baseConfigButton       height: rowHeight;
+				add: #advancedConfigButton   height: rowHeight;
+				add: #helpButton             height: rowHeight;
+				add: #exitButton             height: rowHeight
 		];
 		yourself

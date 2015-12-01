@@ -1,14 +1,13 @@
 {
 	"class" : {
-		"defaultSpec" : "ilshad 11/25/2015 00:26",
+		"defaultSpec" : "ilshad 12/1/2015 13:57",
 		"example" : "ilshad 11/25/2015 00:09" },
 	"instance" : {
 		"aboutText" : "ilshad 11/25/2015 00:20",
-		"baseUrlModel" : "ilshad 11/25/2015 00:25",
-		"initialExtent" : "ilshad 11/25/2015 00:29",
-		"initializePresenter" : "ilshad 11/25/2015 00:21",
+		"initialExtent" : "ilshad 12/1/2015 13:59",
+		"initializePresenter" : "ilshad 12/1/2015 13:58",
 		"initializeToolbar" : "ilshad 11/25/2015 01:38",
-		"initializeWidgets" : "ilshad 11/25/2015 00:29",
+		"initializeWidgets" : "ilshad 12/1/2015 13:58",
 		"secretModel" : "ilshad 11/25/2015 00:09",
 		"title" : "ilshad 11/25/2015 00:25",
 		"toolbarModel" : "ilshad 11/25/2015 00:09" } }

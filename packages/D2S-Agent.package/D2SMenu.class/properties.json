@@ -7,7 +7,8 @@
 	"commentStamp" : "ilshad 5/23/2015 13:21",
 	"instvars" : [
 		"authButton",
-		"configButton",
+		"baseConfigButton",
+		"advancedConfigButton",
 		"helpButton",
 		"exitButton" ],
 	"name" : "D2SMenu",

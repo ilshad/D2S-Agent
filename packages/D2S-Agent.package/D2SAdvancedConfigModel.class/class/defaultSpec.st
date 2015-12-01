@@ -6,7 +6,8 @@ defaultSpec
 	^ SpecLayout composed
 		newColumn: [ :column |
 			column
-				add: #secretModel  height: rowHeight;
+				add: #baseUrlModel height: rowHeight;
+				add: #timeoutModel height: rowHeight;
 				add: #toolbarModel height: rowHeight
 		];
 		yourself

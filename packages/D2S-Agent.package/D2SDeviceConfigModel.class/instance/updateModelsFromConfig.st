@@ -1,7 +1,6 @@
 private
 updateModelsFromConfig
 
-	labelModel label: self label.
-	labelModel color: Color brown.
+	labelModel label:         self label.
 	rootDirectoryModel text:  config rootDirectory.
-	isEnabledModel state: config isEnabled.
+	isEnabledModel state:     config isEnabled.

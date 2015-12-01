@@ -2,15 +2,21 @@ initialization
 initializeWidgets
 
 	authButton := self newButton
-		label: ' Authenticate';
+		label: ' Log in';
 		icon: (Smalltalk ui icons glamorousOpenFromUrl);
 		action: [ D2SAuthModel new openWithSpec ];
 		yourself.
 
-	configButton := self newButton
-		label: ' Configure';
+	baseConfigButton := self newButton
+		label: ' Base Settings';
+		icon: (Smalltalk ui icons config);
+		action: [ D2SBaseConfigModel new openWithSpec ];
+		yourself.
+
+	advancedConfigButton := self newButton
+		label: ' Advanced Settings';
 		icon: (Smalltalk ui icons configuration);
-		action: [ D2SConfigModel new openWithSpec ];
+		action: [ D2SAdvancedConfigModel new openWithSpec ];
 		yourself.
 	
 	helpButton := self newButton

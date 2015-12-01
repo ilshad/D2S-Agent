@@ -1,14 +1,15 @@
 {
 	"class" : {
-		"defaultSpec" : "ilshad 11/25/2015 01:25",
+		"defaultSpec" : "ilshad 12/1/2015 13:57",
 		"example" : "ilshad 5/23/2015 13:39",
 		"menuOpenMainPanelOn:" : "ilshad 5/23/2015 13:46" },
 	"instance" : {
 		"aboutText" : "ilshad 5/23/2015 13:22",
+		"advancedConfigButton" : "ilshad 12/1/2015 13:53",
 		"authButton" : "ilshad 11/25/2015 01:26",
-		"configButton" : "ilshad 5/23/2015 12:47",
+		"baseConfigButton" : "ilshad 12/1/2015 13:52",
 		"exitButton" : "ilshad 5/23/2015 13:04",
 		"helpButton" : "ilshad 5/23/2015 13:30",
 		"initialExtent" : "ilshad 5/23/2015 13:03",
-		"initializeWidgets" : "ilshad 11/25/2015 03:02",
+		"initializeWidgets" : "ilshad 12/1/2015 14:02",
 		"title" : "ilshad 5/23/2015 13:22" } }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"defaultSpec" : "ilshad 12/1/2015 13:54",
+		"example" : "ilshad 12/1/2015 13:38" },
+	"instance" : {
+		"aboutText" : "ilshad 12/1/2015 13:40",
+		"baseUrlModel" : "ilshad 12/1/2015 13:38",
+		"initialExtent" : "ilshad 12/1/2015 13:38",
+		"initializePresenter" : "ilshad 12/1/2015 13:47",
+		"initializeToolbar" : "ilshad 12/1/2015 13:41",
+		"initializeWidgets" : "ilshad 12/1/2015 13:55",
+		"timeoutModel" : "ilshad 12/1/2015 13:46",
+		"title" : "ilshad 12/1/2015 13:44",
+		"toolbarModel" : "ilshad 12/1/2015 13:38" } }
