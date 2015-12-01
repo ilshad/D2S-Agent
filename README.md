@@ -1,0 +1,7 @@
+Dependencies
+------------
+
+Install:
+
+    - `NeoJSON`
+    - `QuickAccess`
