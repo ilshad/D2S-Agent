@@ -26,6 +26,4 @@ initializeDevices
 				]
 			]
 		] height: devices size * height;				
-		yourself).
-
-
+		yourself)

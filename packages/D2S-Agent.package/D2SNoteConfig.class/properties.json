@@ -1,0 +1,16 @@
+{
+	"category" : "D2S-Agent-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 12/1/2015 06:26",
+	"instvars" : [
+		"url",
+		"directory",
+		"isEnabled" ],
+	"name" : "D2SNoteConfig",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

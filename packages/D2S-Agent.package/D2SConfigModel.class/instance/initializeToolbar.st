@@ -1,5 +1,6 @@
 initialization
 initializeToolbar
+
 	toolbarModel := DynamicComposableModel new
 		instantiateModels: #(#closeButton ButtonModel);
 		layout: (SpecLayout composed

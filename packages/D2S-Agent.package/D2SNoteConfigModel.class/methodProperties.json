@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"defaultSpec" : "ilshad 12/1/2015 11:56",
+		"example" : "ilshad 12/1/2015 07:07",
+		"newWithConfig:" : "ilshad 12/1/2015 06:31" },
+	"instance" : {
+		"config" : "ilshad 12/1/2015 06:31",
+		"config:" : "ilshad 12/1/2015 06:34",
+		"directoryModel" : "ilshad 12/1/2015 06:35",
+		"initializePresenter" : "ilshad 12/1/2015 12:02",
+		"initializeWidgets" : "ilshad 12/1/2015 12:02",
+		"isEnabledModel" : "ilshad 12/1/2015 06:31",
+		"labelModel" : "ilshad 12/1/2015 11:33",
+		"updateModelsFromConfig" : "ilshad 12/1/2015 06:41" } }

@@ -10,6 +10,7 @@
 		"baseUrl",
 		"accountId",
 		"devices",
+		"note",
 		"timeout" ],
 	"name" : "D2SConfig",
 	"pools" : [

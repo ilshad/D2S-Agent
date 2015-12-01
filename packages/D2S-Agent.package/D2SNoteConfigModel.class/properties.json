@@ -4,14 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 5/23/2015 04:46",
+	"commentStamp" : "ilshad 12/1/2015 06:32",
 	"instvars" : [
 		"config",
-		"timeoutModel",
-		"noteModel",
-		"devicesModel",
-		"toolbarModel" ],
-	"name" : "D2SConfigModel",
+		"directoryModel",
+		"isEnabledModel",
+		"labelModel" ],
+	"name" : "D2SNoteConfigModel",
 	"pools" : [
 		 ],
 	"super" : "ComposableModel",
