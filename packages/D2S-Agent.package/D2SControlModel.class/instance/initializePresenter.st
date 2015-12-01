@@ -1,6 +1,9 @@
 initialization
 initializePresenter
 
-	D2SScheduler singleton isRunning
-		ifFalse: [ self startStopButtonModelToStart ]
-		ifTrue:  [ self startStopButtonModelToStop  ]
+	D2SStateEvent announcer
+		subscribe: D2SStateEvent
+		do: [ :event | self startStopButtonModelUpdate: (event isRunning)].
+
+	self startStopButtonModelUpdate: (D2SScheduler singleton isRunning)
+

@@ -1,10 +1,10 @@
 {
 	"class" : {
-		"clear" : "ilshad 12/1/2015 20:50",
 		"singleton" : "ilshad 11/25/2015 03:59" },
 	"instance" : {
 		"action" : "ilshad 12/1/2015 04:44",
-		"initialize" : "ilshad 12/1/2015 21:23",
+		"initialize" : "ilshad 12/1/2015 21:54",
+		"logState" : "ilshad 12/1/2015 21:55",
 		"protocols" : "ilshad 12/1/2015 05:15",
 		"runDevice:" : "ilshad 12/1/2015 12:45",
 		"runNote" : "ilshad 12/1/2015 12:43",
