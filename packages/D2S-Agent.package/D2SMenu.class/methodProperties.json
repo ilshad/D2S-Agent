@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"defaultSpec" : "ilshad 12/1/2015 13:57",
+		"defaultSpec" : "ilshad 12/1/2015 15:34",
 		"example" : "ilshad 5/23/2015 13:39",
 		"menuOpenMainPanelOn:" : "ilshad 5/23/2015 13:46" },
 	"instance" : {
@@ -8,8 +8,10 @@
 		"advancedConfigButton" : "ilshad 12/1/2015 13:53",
 		"authButton" : "ilshad 11/25/2015 01:26",
 		"baseConfigButton" : "ilshad 12/1/2015 13:52",
+		"controlButton" : "ilshad 12/1/2015 15:09",
 		"exitButton" : "ilshad 5/23/2015 13:04",
 		"helpButton" : "ilshad 5/23/2015 13:30",
-		"initialExtent" : "ilshad 5/23/2015 13:03",
-		"initializeWidgets" : "ilshad 12/1/2015 14:02",
-		"title" : "ilshad 5/23/2015 13:22" } }
+		"initialExtent" : "ilshad 12/1/2015 15:28",
+		"initializeWidgets" : "ilshad 12/1/2015 19:50",
+		"title" : "ilshad 12/1/2015 15:17",
+		"transcriptButton" : "ilshad 12/1/2015 14:16" } }

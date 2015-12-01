@@ -4,12 +4,12 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 12/1/2015 13:39",
+	"commentStamp" : "ilshad 12/1/2015 15:22",
 	"instvars" : [
 		"config",
-		"baseUrlModel",
-		"timeoutModel" ],
-	"name" : "D2SAdvancedConfigModel",
+		"startStopButtonModel",
+		"statusModel" ],
+	"name" : "D2SControlModel",
 	"pools" : [
 		 ],
 	"super" : "ComposableModel",

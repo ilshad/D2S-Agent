@@ -1,3 +1,3 @@
 api
 title
-	^ 'D2S Agent: Menu'
+	^ 'D2S Agent'

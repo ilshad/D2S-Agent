@@ -6,7 +6,7 @@ defaultSpec
 	^ SpecLayout composed
 		newColumn: [ :column |
 			column
-				add: #noteModel      height: rowHeight * 3;
-				add: #devicesModel
+				add: #statusModel;
+				add: #startStopButtonModel height: rowHeight
 		];
 		yourself

@@ -7,7 +7,6 @@ defaultSpec
 		newColumn: [ :column |
 			column
 				add: #baseUrlModel height: rowHeight;
-				add: #timeoutModel height: rowHeight;
-				add: #toolbarModel height: rowHeight
+				add: #timeoutModel height: rowHeight
 		];
 		yourself
