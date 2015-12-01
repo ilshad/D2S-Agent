@@ -1,0 +1,4 @@
+creation
+clear
+	singleton := nil.
+

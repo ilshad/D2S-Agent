@@ -1,11 +1,14 @@
 {
 	"class" : {
+		"clear" : "ilshad 12/1/2015 20:50",
 		"singleton" : "ilshad 11/25/2015 03:59" },
 	"instance" : {
 		"action" : "ilshad 12/1/2015 04:44",
+		"initialize" : "ilshad 12/1/2015 21:23",
 		"protocols" : "ilshad 12/1/2015 05:15",
 		"runDevice:" : "ilshad 12/1/2015 12:45",
 		"runNote" : "ilshad 12/1/2015 12:43",
-		"start" : "ilshad 12/1/2015 19:26",
-		"stop" : "ilshad 12/1/2015 19:26",
-		"timeout" : "ilshad 11/25/2015 04:06" } }
+		"start" : "ilshad 12/1/2015 21:15",
+		"stop" : "ilshad 12/1/2015 21:15",
+		"timeout" : "ilshad 11/25/2015 04:06",
+		"update" : "ilshad 12/1/2015 21:19" } }

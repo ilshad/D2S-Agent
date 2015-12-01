@@ -1,0 +1,14 @@
+{
+	"category" : "D2S-Agent-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 12/1/2015 21:13",
+	"instvars" : [
+		"isRunning" ],
+	"name" : "D2SStateEvent",
+	"pools" : [
+		 ],
+	"super" : "D2SEvent",
+	"type" : "normal" }

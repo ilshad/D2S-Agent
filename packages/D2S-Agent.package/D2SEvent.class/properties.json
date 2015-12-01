@@ -1,0 +1,14 @@
+{
+	"category" : "D2S-Agent-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"D2SAnnouncer" ],
+	"commentStamp" : "ilshad 12/1/2015 21:14",
+	"instvars" : [
+		 ],
+	"name" : "D2SEvent",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }
