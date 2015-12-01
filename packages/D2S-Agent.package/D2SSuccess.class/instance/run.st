@@ -7,5 +7,7 @@ run
 								url: self url;
 								contents: contents;
 								post) asString.
-	D2SLogger << ('Sent confirmation success for order: ', orderId asString, ' (units: ', ids asCommaString, ')').
+	D2SLogger << ('Sent confirmation success for order: ', orderId asString, ' with units:').
+	ids do: [ :id | D2SLogger << ('...', orderId asString, '/', id) ].
+	D2SLogger << ('...', orderId asString, '/end').
 
