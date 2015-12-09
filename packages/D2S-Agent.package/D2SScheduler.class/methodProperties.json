@@ -2,11 +2,11 @@
 	"class" : {
 		"singleton" : "ilshad 11/25/2015 03:59" },
 	"instance" : {
-		"action" : "ilshad 12/1/2015 04:44",
+		"action" : "ilshad 12/9/2015 10:18",
 		"initialize" : "ilshad 12/1/2015 21:54",
 		"logState" : "ilshad 12/1/2015 21:55",
 		"protocols" : "ilshad 12/1/2015 05:15",
-		"runDevice:" : "ilshad 12/1/2015 12:45",
+		"runDevice:" : "ilshad 12/9/2015 10:22",
 		"runNote" : "ilshad 12/1/2015 12:43",
 		"start" : "ilshad 12/9/2015 06:37",
 		"stop" : "ilshad 12/1/2015 21:15",

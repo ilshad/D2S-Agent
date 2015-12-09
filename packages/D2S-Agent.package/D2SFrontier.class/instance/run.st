@@ -7,6 +7,7 @@ run
 		D2SLogger << (' Starting order: ', orderId, ' on device: ', id).
 		self downloadOrder: orderId.
 		self downloadInstruction: assoc value.
+		self backupDirectory ifNotEmpty: [ self backup ].
 		self writeEnd.
 		self runSuccessForOrder: orderId.
 		D2SLogger << ('Order has been downloaded: ', orderId, ' on device: ', id) ]

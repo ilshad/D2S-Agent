@@ -2,13 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"directoryBaseNameFromOrderId" : "ilshad 11/17/2015 18:13",
+		"directoryBaseName" : "ilshad 12/9/2015 08:42",
 		"directoryBaseNameFromOrderId:" : "ilshad 11/10/2015 04:51",
 		"downloadFileFrom:to:" : "ilshad 11/29/2015 20:50",
 		"downloadOrderImages" : "ilshad 11/18/2015 03:48",
 		"ids" : "ilshad 11/10/2015 04:51",
 		"initialize" : "ilshad 11/10/2015 04:49",
-		"orderDirectory" : "ilshad 11/10/2015 04:49",
+		"orderDirectory" : "ilshad 12/9/2015 08:42",
 		"orderId" : "ilshad 11/17/2015 18:17",
 		"orderId:" : "ilshad 5/19/2015 16:31",
 		"parseFileNameFromURL:" : "ilshad 5/19/2015 16:24",

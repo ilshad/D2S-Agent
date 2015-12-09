@@ -6,5 +6,7 @@ runDevice: deviceConfig
 	device	 id:            deviceConfig id;
 			 rootDirectory: deviceConfig rootDirectory;
 			 baseUrl:       config baseUrl;
-			 secret:        config secret;			 
-			 run.
+			 secret:        config secret.	 
+	(deviceConfig protocol) = #frontier ifTrue: [ device backupDirectory: deviceConfig backupDirectory ].
+	device run
+

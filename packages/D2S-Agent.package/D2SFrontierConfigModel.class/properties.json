@@ -1,0 +1,14 @@
+{
+	"category" : "D2S-Agent-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 12/9/2015 09:15",
+	"instvars" : [
+		"backupDirectoryModel" ],
+	"name" : "D2SFrontierConfigModel",
+	"pools" : [
+		 ],
+	"super" : "D2SDeviceConfigModel",
+	"type" : "normal" }

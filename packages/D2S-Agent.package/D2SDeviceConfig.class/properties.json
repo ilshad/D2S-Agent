@@ -10,6 +10,7 @@
 		"title",
 		"protocol",
 		"rootDirectory",
+		"backupDirectory",
 		"isEnabled" ],
 	"name" : "D2SDeviceConfig",
 	"pools" : [

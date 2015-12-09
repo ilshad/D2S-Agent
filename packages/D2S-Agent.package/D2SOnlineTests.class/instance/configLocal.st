@@ -9,6 +9,6 @@ configLocal
 	frontierPrinterId := '3ux3T'.	
 
 	secret            := 'Q1BX-GQwF-ul'.
-	testDirectory     := '/Users/astoon/Tmp/d2s-online-local/'.
+	testDirectory     := '/Users/astoon/Tmp/d2s-online-tests-local/'.
 
 	

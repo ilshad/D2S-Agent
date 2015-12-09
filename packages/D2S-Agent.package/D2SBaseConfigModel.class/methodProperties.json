@@ -4,10 +4,11 @@
 		"example" : "ilshad 5/23/2015 04:44" },
 	"instance" : {
 		"aboutText" : "ilshad 5/23/2015 04:49",
-		"deviceModelFromConfig:" : "ilshad 5/23/2015 04:44",
+		"deviceHeight:" : "ilshad 12/9/2015 10:06",
+		"deviceModelFromConfig:" : "ilshad 12/9/2015 09:34",
 		"devicesModel" : "ilshad 5/23/2015 04:44",
 		"initialExtent" : "ilshad 5/23/2015 04:56",
-		"initializeDevices" : "ilshad 12/1/2015 12:14",
+		"initializeDevices" : "ilshad 12/9/2015 10:08",
 		"initializePresenter" : "ilshad 12/1/2015 15:29",
 		"initializeWidgets" : "ilshad 12/1/2015 14:04",
 		"noteModel" : "ilshad 12/1/2015 06:55",

@@ -9,7 +9,7 @@ configRemote
 	frontierPrinterId := '3ux3T'.
 
 	secret            := 'Q1BX-GQwF-ul'.
-	testDirectory     := '/Users/astoon/Tmp/d2s-online/'.
+	testDirectory     := '/Users/astoon/Tmp/d2s-online-tests-remote/'.
 
 	
 
