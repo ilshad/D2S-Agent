@@ -11,4 +11,4 @@ initializeToolbar
 		icon: (Smalltalk ui icons smallOk);
 		action: [ 
 			D2SConfig singleton load.
-			UIManager default alert: 'Config loaded. Open Configure Devices.' title: 'Authentication successful.' ].
+			UIManager default alert: 'Config loaded. Open Configure Devices.' title: 'Successfull authentication' ].
