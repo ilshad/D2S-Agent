@@ -2,6 +2,6 @@ running
 setUp
 	"Choose config"
 	
-	"self configRemote"
+	self configRemote
 
-	self configLocal.
+	"self configLocal"

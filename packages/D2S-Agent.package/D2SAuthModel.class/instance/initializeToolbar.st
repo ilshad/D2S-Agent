@@ -9,4 +9,6 @@ initializeToolbar
 	toolbarModel authenticateButton
 		label: ' Authenticate';
 		icon: (Smalltalk ui icons smallOk);
-		action: [ UIManager default alert: 'This function is not implemented yet.' title: 'Sorry.' ].
+		action: [ 
+			D2SConfig singleton load.
+			UIManager default alert: 'Config loaded. Open Configure Devices.' title: 'Authentication successful.' ].

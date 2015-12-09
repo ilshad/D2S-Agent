@@ -1,7 +1,7 @@
 config
 configRemote
 
-	apiBaseUrl        := 'http://ec2-54-77-55-192.eu-west-1.compute.amazonaws.com/agent-api-v1'.
+	apiBaseUrl        := 'http://ec2-54-77-55-192.eu-west-1.compute.amazonaws.com/agent-api-v1.0'.
 	notesBaseUrl      := 'http://ec2-54-77-55-192.eu-west-1.compute.amazonaws.com/note'.
 
 	clientId          := 'dev'.
