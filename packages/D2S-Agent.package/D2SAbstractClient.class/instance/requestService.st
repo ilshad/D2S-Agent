@@ -4,4 +4,5 @@ requestService
 	| url response |
 	url := self url, '?secret=', secret.
 	response := ZnClient new get: url.
-	serviceResponse := NeoJSONReader fromString: response.
+	serviceResponse := NeoJSONReader fromString: response
+

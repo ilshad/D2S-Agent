@@ -20,7 +20,7 @@ initializeWidgets
 		yourself.
 
 	baseConfigButton := self newButton
-		label: ' Base Settings';
+		label: ' Configure Devices';
 		icon: (Smalltalk ui icons config);
 		action: [ D2SBaseConfigModel new openWithSpec ];
 		yourself.

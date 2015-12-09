@@ -1,7 +1,8 @@
 private
 downloadNote: aUrl
 	"Download note from URL into download directory."
-	| path |
-	path := directory / (self parseFileNameFromURL: aUrl).
-	D2SLogger << ('NOTE: from ', aUrl).
+	| path name |
+	name := self parseFileNameFromURL: aUrl.
+	path := directory / name.
+	D2SLogger << ('NOTE: ', name).
 	aUrl asZnUrl saveContentsToFile: path.

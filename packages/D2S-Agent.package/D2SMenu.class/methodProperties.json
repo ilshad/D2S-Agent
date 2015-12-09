@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"defaultSpec" : "ilshad 12/1/2015 15:34",
+		"defaultSpec" : "ilshad 12/3/2015 20:53",
 		"example" : "ilshad 5/23/2015 13:39",
 		"menuOpenMainPanelOn:" : "ilshad 5/23/2015 13:46" },
 	"instance" : {
@@ -12,6 +12,6 @@
 		"exitButton" : "ilshad 5/23/2015 13:04",
 		"helpButton" : "ilshad 5/23/2015 13:30",
 		"initialExtent" : "ilshad 12/1/2015 15:28",
-		"initializeWidgets" : "ilshad 12/1/2015 19:50",
+		"initializeWidgets" : "ilshad 12/3/2015 20:52",
 		"title" : "ilshad 12/1/2015 15:17",
 		"transcriptButton" : "ilshad 12/1/2015 14:16" } }
