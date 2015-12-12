@@ -5,7 +5,7 @@ initializeWidgets
 	assistant := D2SAssistant new.
 
 	authButton := self newButton
-		label: ' Authentication';
+		label: ' Authenticate';
 		icon: (Smalltalk ui icons glamorousOpenFromUrl);
 		action: [ assistant openAuth ];
 		yourself.
@@ -23,13 +23,13 @@ initializeWidgets
 		yourself.
 
 	baseConfigButton := self newButton
-		label: ' Configure Devices';
+		label: ' Devices';
 		icon: (Smalltalk ui icons config);
 		action: [ assistant openBaseConfig ];
 		yourself.
 
 	advancedConfigButton := self newButton
-		label: ' Advanced Settings';
+		label: ' Advanced';
 		icon: (Smalltalk ui icons configuration);
 		action: [ assistant openAdvancedConfig ];
 		yourself.

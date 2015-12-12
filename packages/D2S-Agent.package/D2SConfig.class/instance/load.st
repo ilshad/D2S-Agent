@@ -5,7 +5,7 @@ load
 	url      := self baseUrl, '/config?secret=', self secret.
 	response := ZnClient new get: url.
 	config   := NeoJSONReader fromString: response.
-	note url: (config at: 'note-url').
+	self note url: (config at: 'note-url').
 	(config at: 'devices') do: [ :i | self upsert: i].
 	ids := (config at: 'devices') collect: [ :i | i at: 'id' ].
 	self devices copy doWithIndex: [ :each :index |

@@ -1,3 +1,3 @@
 accessing
 timeout
-	^ timeout ifNil: [ timeout :=  300]
+	^ timeout ifNil: [ timeout := 60]
