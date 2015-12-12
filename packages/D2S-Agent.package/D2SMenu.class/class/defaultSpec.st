@@ -11,7 +11,7 @@ defaultSpec
 				add: #authButton             height: rowHeight;
 				add: #baseConfigButton       height: rowHeight;
 				add: #advancedConfigButton   height: rowHeight;
-				add: #helpButton             height: rowHeight;
+				"add: #helpButton             height: rowHeight;"
 				add: #exitButton             height: rowHeight
 		];
 		yourself

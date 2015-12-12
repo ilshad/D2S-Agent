@@ -11,4 +11,8 @@ initializeToolbar
 		icon: (Smalltalk ui icons smallOk);
 		action: [ 
 			D2SConfig singleton load.
-			UIManager default alert: 'Config loaded. Open Configure Devices.' title: 'Successfull authentication' ].
+			UIManager default
+				alert: 'Config just has been updated. Please configure devices now. '
+				title: 'Successfull authentication'.
+			self window close.
+			D2SAssistant new openBaseConfig ]

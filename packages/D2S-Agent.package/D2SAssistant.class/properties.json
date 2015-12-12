@@ -1,0 +1,18 @@
+{
+	"category" : "D2S-Agent-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ilshad 12/12/2015 08:05",
+	"instvars" : [
+		"advancedConfigModel",
+		"authModel",
+		"baseConfigModel",
+		"controlModel",
+		"menuModel" ],
+	"name" : "D2SAssistant",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+This object contains utility methods which implements user interface assistance / conventien behavior.
