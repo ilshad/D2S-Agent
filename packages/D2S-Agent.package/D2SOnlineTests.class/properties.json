@@ -7,7 +7,6 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"apiBaseUrl",
-		"clientId",
 		"secret",
 		"testDirectory",
 		"manualPrinterId",
