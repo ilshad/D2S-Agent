@@ -5,8 +5,8 @@ initialize
 	D2SConfigUpdatedEvent announcer
 		subscribe: D2SConfigUpdatedEvent
 		do: [
-			baseConfigModel window ifNotNil: [ :window |
+			self baseConfigModel window ifNotNil: [ :window |
 				window close.
 				self openBaseConfig.
-				baseConfigModel window flush ].
+				window flush ].
 			D2SLogger << 'Config has been updated.' ]
