@@ -1,10 +1,10 @@
 {
 	"category" : "D2S-Agent-UI",
 	"classinstvars" : [
-		 ],
+		"singleton" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 12/12/2015 08:05",
+	"commentStamp" : "ilshad 3/18/2016 17:12",
 	"instvars" : [
 		"advancedConfigModel",
 		"authModel",

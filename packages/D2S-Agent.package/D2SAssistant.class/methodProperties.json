@@ -1,6 +1,7 @@
 {
 	"class" : {
-		 },
+		"clear" : "ilshad 3/18/2016 18:46",
+		"singleton" : "ilshad 3/18/2016 18:45" },
 	"instance" : {
 		"advancedConfigModel" : "ilshad 12/12/2015 08:19",
 		"authModel" : "ilshad 12/12/2015 08:19",

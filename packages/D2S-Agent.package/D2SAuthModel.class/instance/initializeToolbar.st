@@ -15,4 +15,4 @@ initializeToolbar
 				alert: 'Config just has been updated. Please configure devices now. '
 				title: 'Successfull authentication'.
 			self window close.
-			D2SAssistant new openBaseConfig ]
+			D2SAssistant singleton openBaseConfig ]

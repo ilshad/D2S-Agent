@@ -1,1 +1,1 @@
-This object contains utility methods which implements user interface assistance / conventien behavior.
+This object contains utility methods which implements user interface assistance / conventien behavior. It hold all the UI components in its state. It is supposed to be singleton, so ask it by `D2SAssistant singleton`, not by #new class method. 

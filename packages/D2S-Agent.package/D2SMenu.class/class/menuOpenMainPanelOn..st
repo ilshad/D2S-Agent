@@ -5,4 +5,4 @@ menuOpenMainPanelOn: aBuilder
 		label: 'Digital 2 Solid';
 		icon: (Smalltalk ui icons smallPrintIcon);
 		order: 10;
-		action: [ D2SAssistant new openMenu ]
+		action: [ D2SAssistant singleton openMenu ]

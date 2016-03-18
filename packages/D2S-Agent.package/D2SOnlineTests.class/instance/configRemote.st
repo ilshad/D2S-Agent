@@ -1,7 +1,7 @@
 config
 configRemote
 
-	apiBaseUrl        := 'http://d2s-1.hefest.eu/agent-api-1'.
+	apiBaseUrl        := 'http://d2s-1.hefest.eu/agent'.
 	notesBaseUrl      := 'http://d2s-1.hefest.eu/note'.
 
 	manualPrinterId   := 'I4LoR'.

@@ -2,7 +2,7 @@
 	"class" : {
 		"defaultSpec" : "ilshad 12/12/2015 08:47",
 		"example" : "ilshad 5/23/2015 13:39",
-		"menuOpenMainPanelOn:" : "ilshad 12/12/2015 08:11" },
+		"menuOpenMainPanelOn:" : "ilshad 3/18/2016 16:46" },
 	"instance" : {
 		"aboutText" : "ilshad 5/23/2015 13:22",
 		"advancedConfigButton" : "ilshad 12/1/2015 13:53",
@@ -12,6 +12,6 @@
 		"exitButton" : "ilshad 5/23/2015 13:04",
 		"helpButton" : "ilshad 5/23/2015 13:30",
 		"initialExtent" : "ilshad 12/1/2015 15:28",
-		"initializeWidgets" : "ilshad 12/12/2015 08:43",
+		"initializeWidgets" : "ilshad 3/18/2016 16:59",
 		"title" : "ilshad 12/1/2015 15:17",
 		"transcriptButton" : "ilshad 12/1/2015 14:16" } }

@@ -8,14 +8,14 @@ start
 		ifEmpty: [ 
 			success := false.
 			UIManager default alert: 'Please setup base URL.'.
-			D2SAssistant new openAdvancedConfig ].
+			D2SAssistant singleton openAdvancedConfig ].
 
 	success ifTrue: [
 		D2SConfig singleton secret
 			ifEmpty: [
 				success := false.
 				UIManager default alert: 'Please authenticate'.
-				D2SAssistant new openAuth ]
+				D2SAssistant singleton openAuth ]
 			].
 
 	success ifTrue: [ super start. self update ].

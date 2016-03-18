@@ -1,15 +1,16 @@
 {
 	"class" : {
-		"singleton" : "ilshad 11/25/2015 03:59" },
+		"clear" : "ilshad 3/18/2016 18:43",
+		"singleton" : "ilshad 3/18/2016 18:43" },
 	"instance" : {
-		"action" : "ilshad 12/9/2015 15:24",
+		"action" : "ilshad 3/18/2016 17:35",
 		"initialize" : "ilshad 12/1/2015 21:54",
 		"isDeviceConfigValid:" : "ilshad 12/9/2015 15:36",
 		"logState" : "ilshad 12/1/2015 21:55",
 		"protocols" : "ilshad 12/9/2015 14:25",
 		"runDevice:" : "ilshad 12/9/2015 15:21",
-		"runNote" : "ilshad 12/1/2015 12:43",
-		"start" : "ilshad 3/18/2016 02:12",
+		"runNote" : "ilshad 3/18/2016 17:28",
+		"start" : "ilshad 3/18/2016 16:58",
 		"stop" : "ilshad 12/1/2015 21:15",
 		"timeout" : "ilshad 11/25/2015 04:06",
 		"update" : "ilshad 12/1/2015 21:19",
