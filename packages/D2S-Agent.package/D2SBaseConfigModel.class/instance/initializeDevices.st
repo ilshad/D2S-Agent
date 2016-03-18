@@ -16,7 +16,7 @@ initializeDevices
 			assign: (self deviceModelFromConfig: i value)
 			to: i key.
 		height := height + (self deviceHeight: i value) ].
-
+	
 	devicesModel layout: (SpecLayout composed
 		newRow: [ :row |
 			row newColumn: [ :col |

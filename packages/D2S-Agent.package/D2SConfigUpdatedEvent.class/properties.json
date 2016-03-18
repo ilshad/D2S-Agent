@@ -4,10 +4,10 @@
 		"D2SAnnouncer" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ilshad 12/1/2015 21:13",
+	"commentStamp" : "ilshad 3/18/2016 23:23",
 	"instvars" : [
-		"isRunning" ],
-	"name" : "D2SStateEvent",
+		 ],
+	"name" : "D2SConfigUpdatedEvent",
 	"pools" : [
 		 ],
 	"super" : "D2SEvent",

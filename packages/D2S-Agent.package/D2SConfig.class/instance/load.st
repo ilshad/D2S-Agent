@@ -9,4 +9,8 @@ load
 	(config at: 'devices') do: [ :i | self upsert: i].
 	ids := (config at: 'devices') collect: [ :i | i at: 'id' ].
 	self devices copy doWithIndex: [ :each :index |
-		(ids includes: each id) ifFalse: [ self devices removeAt: index ] ]
+		(ids includes: each id) ifFalse: [
+			self devices removeAt: index.
+			D2SConfigUpdatedEvent new emit.
+			]
+		]

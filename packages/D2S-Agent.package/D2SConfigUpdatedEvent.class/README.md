@@ -1,0 +1,1 @@
+Announcement about updated config.
