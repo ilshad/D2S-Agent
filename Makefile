@@ -1,13 +1,22 @@
-all: build-new-image
+IMAGE = image
+CACHE = cache
 
-clean:
-	@rm -rf image
+all: image
 
-download-base-image:
-	@mkdir image; cd image; curl get.pharo.org/alpha | bash
-	@cp scripts/startup.st image
+clean-cache:
+	@rm -rf $(CACHE)
 
-build-new-image: clean download-base-image
+download-cache:
+	@if test ! -d $(CACHE); then \
+	mkdir $(CACHE); cd $(CACHE); curl get.pharo.org/alpha | bash; \
+	else : ; fi
+
+clean-image:
+	@rm -rf $(IMAGE)
+
+image: download-cache clean-image
+	@cp -R $(CACHE) $(IMAGE);
+	@cp scripts/startup.st $(IMAGE)
 
 save-startup:
 	@cp image/startup.st scripts
