@@ -15,4 +15,4 @@ settingsOn: aBuilder
 				order: 2.
 			(aBuilder launcher: #authenticate)
 				label: 'Authenticate';
-				script: #authenticate ]
+				script: #load ]
