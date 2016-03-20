@@ -4,6 +4,7 @@
 		"example" : "ilshad 12/9/2015 09:27" },
 	"instance" : {
 		"backupDirectoryModel" : "ilshad 12/9/2015 09:21",
+		"heightToDisplayInList:" : "ilshad 3/21/2016 01:34",
 		"initializePresenter" : "ilshad 12/9/2015 09:21",
 		"initializeWidgets" : "ilshad 12/9/2015 09:26",
 		"updateModelsFromConfig" : "ilshad 12/9/2015 09:21" } }

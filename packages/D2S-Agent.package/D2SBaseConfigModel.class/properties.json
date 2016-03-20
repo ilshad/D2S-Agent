@@ -8,8 +8,7 @@
 	"instvars" : [
 		"config",
 		"noteModel",
-		"devicesModel",
-		"devicesHeight" ],
+		"devicesModel" ],
 	"name" : "D2SBaseConfigModel",
 	"pools" : [
 		 ],
