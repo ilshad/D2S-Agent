@@ -25,3 +25,5 @@ initializeDevices
 			]
 		] height: height;
 		yourself).
+
+	devicesHeight := height.
