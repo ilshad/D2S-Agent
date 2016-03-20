@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initialize
 	super initialize.
 	D2SConfigUpdatedEvent announcer subscribe: D2SConfigUpdatedEvent do: [
