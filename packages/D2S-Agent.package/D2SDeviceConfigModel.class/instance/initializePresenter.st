@@ -1,5 +1,6 @@
 initialization
 initializePresenter
 
-	rootDirectoryModel whenValueChanged:   [ :s | config rootDirectory: s ].
-	isEnabledModel     whenChangedDo:      [ :b | config isEnabled: b ].
+	rootDirectoryModel whenValueChanged:   [ :x | config rootDirectory: x ].
+	prefixModel        whenTextIsAccepted: [ :x | config prefix: x ].
+	isEnabledModel     whenChangedDo:      [ :x | config isEnabled: x ].

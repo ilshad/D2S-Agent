@@ -4,10 +4,12 @@
 		"example" : "ilshad 5/23/2015 04:44" },
 	"instance" : {
 		"aboutText" : "ilshad 5/23/2015 04:49",
+		"deviceHeight:" : "ilshad 3/21/2016 07:39",
 		"deviceModelFromConfig:" : "ilshad 12/9/2015 14:15",
 		"devicesModel" : "ilshad 5/23/2015 04:44",
-		"initialExtent" : "ilshad 3/21/2016 01:59",
-		"initializeWidgets" : "ilshad 3/21/2016 02:52",
+		"initialExtent" : "ilshad 3/20/2016 23:33",
+		"initializeDevices" : "ilshad 3/20/2016 19:44",
+		"initializePresenter" : "ilshad 3/19/2016 00:44",
+		"initializeWidgets" : "ilshad 12/1/2015 14:04",
 		"noteModel" : "ilshad 12/1/2015 06:55",
-		"title" : "ilshad 12/4/2015 09:41",
-		"updateDevices" : "ilshad 3/21/2016 02:46" } }
+		"title" : "ilshad 12/4/2015 09:41" } }

@@ -8,6 +8,7 @@ defaultSpec
 			column
 				add: #labelModel height: rowHeight;
 				add: #isEnabledModel height: rowHeight;
-				add: #rootDirectoryModel height: rowHeight
+				add: #rootDirectoryModel height: rowHeight;
+				add: #prefixModel height: rowHeight
 		];
 		yourself

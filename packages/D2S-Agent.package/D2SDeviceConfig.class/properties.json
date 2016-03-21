@@ -11,7 +11,8 @@
 		"protocol",
 		"rootDirectory",
 		"backupDirectory",
-		"isEnabled" ],
+		"isEnabled",
+		"prefix" ],
 	"name" : "D2SDeviceConfig",
 	"pools" : [
 		 ],

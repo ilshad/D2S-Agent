@@ -9,6 +9,7 @@ defaultSpec
 				add: #labelModel height: rowHeight;
 				add: #isEnabledModel height: rowHeight;
 				add: #rootDirectoryModel height: rowHeight;
-				add: #backupDirectoryModel height: rowHeight
+				add: #backupDirectoryModel height: rowHeight;
+				add: #prefixModel height: rowHeight
 		];
 		yourself

@@ -1,7 +1,5 @@
 initialization
 initializeWidgets
-	noteModel := D2SNoteConfigModel newWithConfig: (D2SConfig singleton note).
-	devicesModel := self newList.
-	devicesModel allowToSelect: false.
-	devicesModel displayBlock: [ :model | self instantiate: model ].
-	self updateDevices.
+
+	config := D2SConfig singleton.
+	noteModel := D2SNoteConfigModel newWithConfig: (config note).
