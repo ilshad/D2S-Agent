@@ -1,4 +1,4 @@
 api
 openBaseConfig
-	self baseConfigModel updateDevicesModel.
+	self baseConfigModel updateDevices.
 	(self baseConfigModel openWithSpec) window position: (270@110).

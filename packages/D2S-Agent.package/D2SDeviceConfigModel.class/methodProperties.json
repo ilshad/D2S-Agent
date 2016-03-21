@@ -6,11 +6,12 @@
 	"instance" : {
 		"config" : "ilshad 5/22/2015 04:45",
 		"config:" : "ilshad 5/22/2015 22:26",
-		"heightToDisplayInList:" : "ilshad 3/21/2016 01:35",
+		"heightToDisplayInList:" : "ilshad 3/21/2016 02:39",
 		"initializePresenter" : "ilshad 11/25/2015 01:40",
 		"initializeWidgets" : "ilshad 11/25/2015 01:40",
 		"isEnabledModel" : "ilshad 5/23/2015 02:03",
 		"label" : "ilshad 12/9/2015 15:31",
 		"labelModel" : "ilshad 5/22/2015 04:23",
 		"rootDirectoryModel" : "ilshad 5/22/2015 04:23",
-		"updateModelsFromConfig" : "ilshad 3/21/2016 01:56" } }
+		"updateModelsFromConfig" : "ilshad 3/21/2016 01:56",
+		"widthToDisplayInList:" : "ilshad 3/21/2016 02:50" } }
