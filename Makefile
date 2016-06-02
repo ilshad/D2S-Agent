@@ -5,7 +5,7 @@ all: image
 
 download-cache:
 	@if test ! -d $(CACHE); then \
-	mkdir $(CACHE); cd $(CACHE); curl get.pharo.org/alpha | bash; \
+	mkdir $(CACHE); cd $(CACHE); curl get.pharo.org/stable | bash; \
 	else : ; fi
 
 clean-image:
