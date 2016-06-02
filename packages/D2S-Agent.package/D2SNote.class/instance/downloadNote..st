@@ -5,4 +5,4 @@ downloadNote: aUrl
 	name := self parseFileNameFromURL: aUrl.
 	path := directory / name.
 	D2SLogger << ('NOTE: ', name).
-	aUrl asZnUrl saveContentsToFile: path.
+	(aUrl, '?secret=', secret) asZnUrl saveContentsToFile: path.
