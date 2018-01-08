@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./pharo/pharo-ui ./pharo/Pharo.image

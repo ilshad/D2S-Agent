@@ -1,22 +1,22 @@
-IMAGE = image
+PHARO = pharo
 CACHE = cache
 
-all: image
+all: pharo
 
 download-cache:
 	@if test ! -d $(CACHE); then \
-	mkdir $(CACHE); cd $(CACHE); curl get.pharo.org/stable | bash; \
+	mkdir $(CACHE); cd $(CACHE); curl get.pharo.org | bash; \
 	else : ; fi
 
-clean-image:
-	@rm -rf $(IMAGE)
+clean-pharo:
+	@rm -rf $(PHARO)
 
-image: download-cache clean-image
-	@cp -R $(CACHE) $(IMAGE);
-	@cp scripts/startup.st $(IMAGE)
+pharo: download-cache clean-pharo
+	@cp -R $(CACHE) $(PHARO);
+	@cp scripts/startup.st $(PHARO)
 
 clean-cache:
 	@rm -rf $(CACHE)
 
 save-startup:
-	@cp image/startup.st scripts
+	@cp pharo/startup.st scripts

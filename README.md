@@ -1,14 +1,14 @@
 Development
 -----------
 
-Run:
+Build:
 
     $ make
 
-That's it.
+It downloads latest Pharo image and VM into `cache/` directory
+(if it hadn't done already), copies them into `pharo/` directory
+and prepares a startup file.
 
-It downloads latest Pharo image into `cache/` directory
-(if it hadn't done already), copies this fresh image into
-`image/` directory and prepares a startup file.
+Run:
 
-Then you have to open `image/Pharo.image` with Pharo 5 VM.
+    $ ./run
